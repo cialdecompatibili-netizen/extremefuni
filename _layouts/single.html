@@ -88,4 +88,9 @@ layout: default
   {% if page.collection == "servizi" %}
     {% include servizi-correlati.html %}
   {% endif %}
+
+  {%- comment -%} Pagine progetto: in fondo le card degli altri lavori (stessa grafica dei servizi) {%- endcomment -%}
+  {% if page.collection == "progetti" %}
+    {% include progetti-correlati.html %}
+  {% endif %}
 </div>

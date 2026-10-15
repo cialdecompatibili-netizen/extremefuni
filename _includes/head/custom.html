@@ -323,20 +323,25 @@ document.addEventListener('DOMContentLoaded', function(){
 
   // --- TRADUZIONE "X minute read" -> "X minuto/i di lettura" (2026-07-04) ---
   (function(){
-    var rt = document.querySelector('.page__meta-readtime');
-    if (!rt) return;
-    var testo = rt.textContent;
-    var match = testo.match(/(\d+)\s*minute read/i);
-    if (match) {
-      var n = parseInt(match[1], 10);
-      var nuovoTesto = n === 1 ? '1 minuto di lettura' : n + ' minuti di lettura';
-      testo = testo.replace(/\d+\s*minute read/i, nuovoTesto);
-    } else if (/less than 1 minute read/i.test(testo)) {
-      testo = testo.replace(/less than 1 minute read/i, 'meno di 1 minuto di lettura');
-    }
-    var icon = rt.querySelector('i');
-    rt.textContent = testo.trim();
-    if (icon) rt.insertBefore(icon, rt.firstChild);
+    // 16/10/2026: prima traduceva solo il PRIMO .page__meta-readtime (querySelector) e quindi le card
+    // (blog, servizi, "Altri servizi") restavano in inglese; inoltre "less than 1 minute read" veniva
+    // catturato dalla regola "\d+ minute read" e diventava "less than 1 minuto di lettura".
+    // Ora: querySelectorAll (articolo + tutte le card) e "less than" controllato PER PRIMO.
+    document.querySelectorAll('.page__meta-readtime').forEach(function(rt){
+      var testo = rt.textContent;
+      if (/less than\s*1\s*minutes?\s*read/i.test(testo)) {
+        testo = testo.replace(/less than\s*1\s*minutes?\s*read/i, 'meno di 1 minuto di lettura');
+      } else {
+        var match = testo.match(/(\d+)\s*minutes?\s*read/i);
+        if (match) {
+          var n = parseInt(match[1], 10);
+          testo = testo.replace(/\d+\s*minutes?\s*read/i, n === 1 ? '1 minuto di lettura' : n + ' minuti di lettura');
+        }
+      }
+      var icon = rt.querySelector('i');
+      rt.textContent = testo.trim();
+      if (icon) rt.insertBefore(icon, rt.firstChild);
+    });
   })();
 
   // --- TRADUZIONE resto UI in italiano (2026-07-04) ---

@@ -4,7 +4,7 @@ title: "Pulizia componenti su fune"
 description: "Pulizia su fune di facciate, insegne, rivestimenti e componenti in quota: niente ponteggio, edificio sempre accessibile. Sopralluogo gratuito."
 ordine: 9
 in_home: true
-seo_title: "Pulizia su fune di facciate, insegne e componenti in quota - EdilExtreme"
+seo_title: "Pulizia su fune di facciate, insegne e componenti in quota"
 seo_description: "Pulizia su fune di facciate, rivestimenti, insegne, grondaie e componenti tecnici in quota, senza ponteggio e senza fermare l'edificio. Sopralluogo gratuito."
 ---
 

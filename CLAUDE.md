@@ -1,6 +1,6 @@
-# edilextreme4
+# extremefuni
 
-Sito Jekyll su GitHub Pages: https://cialdecompatibili-netizen.github.io/edilextreme4/
+Sito Jekyll su GitHub Pages: https://extremefuni.it/
 
 ## Cose che funzionano
 - Skill Impeccable (design): installata a livello progetto con `npx --yes impeccable install --providers=claude --scope=project` dalla radice del progetto. I flag evitano le domande interattive. Dopo l'installazione, in Claude Code (anche nella scheda Code di Claude Desktop) lanciare `/impeccable init`.

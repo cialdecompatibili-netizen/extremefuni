@@ -5,7 +5,8 @@
     {% assign count = 0 %}
     {% for post in site.posts %}
       {% unless post.id == page.id %}
-        {% if count < 3 %}
+        {% comment %} 4 card (non 3): la griglia ha 2 colonne, con 4 si forma un 2x2 pieno. Per cambiare il numero: "count < 4". {% endcomment %}
+        {% if count < 4 %}
           {% assign count = count | plus: 1 %}
           {% include archive-single.html type="grid" %}
         {% endif %}

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: single
 title: "Categoria"
 permalink: /shop/categoria/abbigliamento/

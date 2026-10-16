@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Contatti"
+seo_title: "Contatti e sopralluogo gratuito | EdilExtreme"
+seo_description: "Richiedi un sopralluogo gratuito per lavori su fune: descrivi il lavoro e ti rispondiamo entro 24 ore, festivi esclusi."
 permalink: /contatti/
 ---
 
@@ -15,7 +17,7 @@ permalink: /contatti/
   accetti il dominio di questo sito (campo "sito" = location.hostname).
 {%- endcomment -%}
 
-<p class="cf-intro">Hai un progetto in mente? Raccontaci da dove parti e ti diciamo come possiamo aiutarti.</p>
+<p class="cf-intro">Descrivici il lavoro da fare: ti rispondiamo entro 24 ore (festivi esclusi) e, se serve, fissiamo un sopralluogo gratuito e senza impegno.</p>
 
 <style>
 .cf-wrap,.cf-intro{max-width:520px;margin-left:auto;margin-right:auto}
@@ -59,7 +61,7 @@ permalink: /contatti/
     <input type="text" id="cf-web" name="website" tabindex="-1" autocomplete="off">
   </div>
   <button type="submit" class="cf-btn" id="cf-btn">Invia la richiesta</button>
-  <p class="cf-nota">Ti rispondiamo il prima possibile. I tuoi dati servono solo per risponderti.</p>
+  <p class="cf-nota">I tuoi dati servono solo per risponderti.</p>
   <p id="cf-esito" role="status" aria-live="polite"></p>
 </form>
 </div>

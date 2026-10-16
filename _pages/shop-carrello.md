@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: single
 title: "Carrello"
 permalink: /shop/carrello/

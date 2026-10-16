@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: single
 title: "Shop"
 permalink: /shop/

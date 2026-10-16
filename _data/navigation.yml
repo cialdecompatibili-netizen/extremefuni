@@ -5,8 +5,6 @@ main:
     url: /progetti/
   - title: "Blog"
     url: /blog/
-  - title: "Shop!"
-    url: /shop/
   - title: "Servizi"
     url: /servizi/
   - title: "Contatti"

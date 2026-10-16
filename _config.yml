@@ -3,11 +3,8 @@ title: EdilExtreme
 baseurl: ""
 url: "https://extremefuni.it"
 email: ""
-description: >-
-  Un sito Jekyll con CMS integrato, gestito da CMSPush.
+description: "EdilExtreme: lavori edili su fune a Roma e nel Lazio. Grondaie, canne fumarie, facciate, tetti e messa in sicurezza senza ponteggi. Sopralluogo gratuito."
 footer_text: "&copy; 2026 EdilExtreme"
-twitter_username: username
-github_username: username
 minimal_mistakes_skin: default
 search: true
 
@@ -15,29 +12,11 @@ search: true
 author:
   name: "Andrew"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Ciao, sono Andrew fondatore di EdilExtreme, sono disponibile per qualsiasi richiesta. Grazie per l'attenzione."
+  bio: "Andrew, fondatore di EdilExtreme. Lavori edili in quota su fune, senza ponteggi. Scrivimi per un sopralluogo gratuito."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
-social:
-  name: CMSPush
-  links:
-    - https://twitter.com/username
-    - https://github.com/cialdecompatibili-netizen
-
-twitter:
-  username: username
+    - label: "Richiedi un preventivo"
+      icon: "fas fa-fw fa-envelope"
+      url: "/contatti/"
 
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -71,16 +50,7 @@ plugins:
   - jekyll-include-cache
 
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  links: []
 
 defaults:
   - scope:

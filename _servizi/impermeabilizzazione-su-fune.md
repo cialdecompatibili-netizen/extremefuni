@@ -1,28 +1,54 @@
 ---
 layout: single
+title: "Impermeabilizzazione su fune"
+description: "Impermeabilizzazione di terrazzi, balconi, cornicioni e punti critici del tetto lavorando su fune, senza ponteggio."
 ordine: 1
 in_home: true
-title: "Impermeabilizzazione su fune"
-date: 2026-09-17
-excerpt: "Interventi di impermeabilizzazione di terrazzi, balconi, tetti e cornicioni con tecnica su fune: niente ponteggi, tempi rapidi, risparmio concreto."
-categories:
-  - servizi
+seo_title: "Impermeabilizzazione su fune: terrazzi, balconi e tetti senza ponteggio"
+seo_description: "Impermeabilizzazione di terrazzi, balconi, cornicioni e coperture lavorando su fune: interventi mirati, niente ponteggio, sopralluogo gratuito."
 ---
 
-L'acqua e uno dei principali nemici di ogni edificio. Infiltrazioni non trattate in tempo penetrano nel cemento, corrodono i ferri d'armatura e, con il passare delle stagioni, trasformano un piccolo difetto della copertura in un danno strutturale costoso da riparare.
+Le infiltrazioni raramente restano piccole: l'acqua entra nel cemento, corrode i ferri d'armatura e trasforma un difetto della copertura in un danno strutturale. Intervenire presto costa molto meno che rifare un solaio.
 
-EdilExtreme esegue interventi di impermeabilizzazione di terrazzi, balconi, tetti e cornicioni operando su fune, senza montare ponteggi ne impalcature. I nostri tecnici raggiungono direttamente il punto da trattare calandosi dall'alto, con un risparmio netto su tempi e costi rispetto ai cantieri tradizionali.
+Con **l'impermeabilizzazione su fune** raggiungiamo il punto da trattare dall'alto, senza montare ponteggi o piattaforme: ideale per interventi mirati su terrazzi, balconi, cornicioni, giunti e punti critici del tetto.
 
-## Come interveniamo
+## Cosa facciamo
 
-A seconda della superficie e del tipo di danno, applichiamo guaine bituminose o membrane liquide, scegliendo tra i migliori materiali disponibili sul mercato. Prima di ogni applicazione verifichiamo lo stato del supporto: crepe, distacchi di intonaco o parti gia compromesse vengono trattate a monte, per evitare che l'umidita si ripresenti a distanza di pochi mesi.
+- **Guaine e membrane liquide** su terrazzi, balconi e superfici piane o poco inclinate.
+- **Sigillatura di giunti, converse e colmi**, dove l'acqua si infiltra più spesso.
+- **Trattamento di crepe e distacchi** del supporto prima di applicare il nuovo strato.
+- **Impermeabilizzazione di cornicioni e sottobalconi**, per proteggere intonaco e ferri.
 
-## Quando conviene intervenire
+## Come lavoriamo
 
-Non serve aspettare che compaiano macchie di umidita in casa per agire. I segnali da tenere d'occhio sono le crepe superficiali su terrazzi e cornicioni, il distacco di piccole porzioni di intonaco e l'accumulo di acqua stagnante dopo la pioggia. Intervenire in questa fase costa molto meno che rifare un solaio danneggiato.
+1. **Sopralluogo** con ispezione dall'alto e individuazione dei punti d'ingresso dell'acqua.
+2. **Preparazione del supporto**: pulizia e ripristino di crepe e parti ammalorate.
+3. **Applicazione** del sistema impermeabilizzante adatto alla superficie.
+4. **Controllo finale** con foto del lavoro eseguito.
 
-## Perche scegliere la tecnica su fune
+## Quando conviene e quando no
 
-Zero ponteggi significa zero permessi comunali, zero ingombro sul marciapiede o in cortile, e un cantiere che si chiude in tempi molto piu rapidi. I nostri operatori sono formati con corsi di alpinismo e speleologia e lavorano sempre in sicurezza, anche sui punti piu difficili da raggiungere con i metodi tradizionali.
+La fune dà il meglio su **interventi localizzati**: una giunzione che perde, un terrazzo, un cornicione. Per il **rifacimento completo di una grande copertura** il ponteggio può essere più adatto, e al sopralluogo te lo diciamo chiaramente.
 
-Richiedi un sopralluogo gratuito: valutiamo insieme lo stato della tua copertura e ti prepariamo un preventivo chiaro, senza impegno.
+## Sicurezza
+
+Lavoriamo con doppia fune (di lavoro e di sicurezza), con personale formato per l'accesso e il posizionamento mediante funi come previsto dal D.Lgs. 81/2008. Con pioggia, ghiaccio o vento forte i lavori si rimandano: le impermeabilizzazioni, in ogni caso, vanno posate su superfici asciutte.
+
+## Domande frequenti
+
+### Si può impermeabilizzare un tetto senza ponteggio?
+Per interventi puntuali sì, lavorando su fune. Per grandi superfici o rifacimenti integrali serve una valutazione caso per caso.
+
+### Quanto dura il lavoro?
+Un intervento mirato spesso si chiude in una o due giornate, meteo permettendo. Dopo il sopralluogo ti indichiamo tempi realistici.
+
+### Servono permessi?
+Dipende dal Comune e dal tipo di lavoro. Sulle parti comuni di un condominio serve la delibera dell'assemblea. Ti aiutiamo a capire cosa occorre.
+
+### Quanto costa?
+Dipende da superficie, stato del supporto e materiali. Il preventivo è scritto e con le voci spiegate una per una.
+
+
+## Richiedi un sopralluogo
+
+Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): valutiamo il lavoro, ti diciamo se la fune è la scelta giusta e ricevi un preventivo scritto, senza impegno.

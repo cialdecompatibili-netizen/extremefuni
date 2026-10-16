@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Balconi, facciate e tetto"
+title: "Ristrutturazioni balconi e facciate"
 description: "Ripristino di balconi, frontalini, facciate e coperture eseguito su fune, senza ponteggio davanti alle finestre."
 ordine: 12
 in_home: true

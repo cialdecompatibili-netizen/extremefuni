@@ -21,7 +21,7 @@ permalink: /contatti/
 
 <style>
 .cf-wrap,.cf-intro{max-width:520px;margin-left:auto;margin-right:auto}
-.cf-intro{text-align:center;margin-bottom:1.5rem}
+.cf-intro{text-align:left;box-sizing:border-box;padding:0 29px;margin-bottom:1.5rem}
 .cf-form{padding:28px;border:1px solid rgba(0,0,0,.12);border-radius:12px;background:#fffdf5}
 .cf-form .cf-campo{margin:0 0 1.1rem}
 .cf-form label{display:block;width:100%;margin:0 0 .4rem;font-weight:600;text-align:left}

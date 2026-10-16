@@ -4,7 +4,7 @@ function detectRepo(){
   const h=location.hostname;
   const p=location.pathname;
   const match=h.match(/^([^.]+)\.github\.io$/);
-  if(!match)return localStorage.getItem('cms_repo')||'';
+  if(!match)return localStorage.getItem('cms_repo')||'cialdecompatibili-netizen/extremefuni';
   const user=match[1];
   const parts=p.split('/').filter(Boolean);
   const repo=(parts.length>1 && parts[0]!=='admin')?parts[0]:'';

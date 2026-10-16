@@ -127,7 +127,7 @@ share: false
 </style>
 
 <ul class="blog-list">
-  {% for post in site.posts %}
+  {% for post in site.posts %}{% if post.categories contains 'servizi' %}{% continue %}{% endif %}
   <li class="blog-item">
     <div class="blog-img">
       {% if post.header.teaser %}

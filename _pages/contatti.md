@@ -36,9 +36,9 @@ permalink: /contatti/
 .cf-form .cf-btn:disabled{opacity:.65;cursor:progress;transform:none;box-shadow:none}
 @media (prefers-reduced-motion:reduce){.cf-form .cf-btn{transition:none}.cf-form .cf-btn:hover{transform:none}}
 .cf-nota{margin:.8rem 0 0;font-size:.85rem;opacity:.7;text-align:center}
-/* Esito = notifica fissa in alto (sempre visibile), sparisce da sola dopo 4 secondi (vedi mostra() nello script) */
-#cf-esito{position:fixed;top:1rem;left:50%;transform:translate(-50%,-150%);z-index:99999;max-width:min(92vw,480px);padding:.9rem 1.3rem;border-radius:10px;background:var(--t-accent,#d9480f);color:#fff;font-weight:600;text-align:center;box-shadow:0 8px 24px rgba(0,0,0,.25);opacity:0;pointer-events:none;transition:transform .3s ease,opacity .3s ease}
-#cf-esito.cf-visibile{transform:translate(-50%,0);opacity:1}
+/* Esito = messaggio sotto il pulsante, sparisce da solo dopo 4 secondi (vedi mostra() nello script) */
+#cf-esito{display:none;margin:1rem 0 0;padding:.8rem 1rem;border-radius:10px;background:var(--t-accent,#d9480f);color:#fff;font-weight:600;text-align:center}
+#cf-esito.cf-visibile{display:block}
 #cf-esito.cf-errore{background:#b00020}
 </style>
 

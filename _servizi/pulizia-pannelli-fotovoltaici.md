@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Pulizia pannelli fotovoltaici"
-description: "Moduli solari lavati da operatori su fune su tetti alti, ripidi o poco sicuri da percorrere, senza impalcature e senza calpestare i pannelli."
+description: "Pulizia di pannelli fotovoltaici su tetti alti, ripidi o difficili da raggiungere, senza calpestare i moduli. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
 ordine: 10
 in_home: true
-seo_title: "Pulizia pannelli fotovoltaici su fune: tetti alti e inclinati"
-seo_description: "Lavaggio di pannelli fotovoltaici su coperture alte, inclinate o difficili da raggiungere, eseguito da operatori su fune. Nessun ponteggio, sopralluogo gratuito."
+seo_title: "Pulizia pannelli fotovoltaici | Su fune, senza ponteggi"
+seo_description: "Pulizia di pannelli fotovoltaici su tetti alti, ripidi o difficili da raggiungere, senza calpestare i moduli. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
 ---
 
 Polvere, smog, pollini, guano e residui di pioggia si posano sui moduli e ne abbassano il rendimento. In certi impianti lo strato di sporco si vede a occhio nudo, in altri è più insidioso e lo scopri solo confrontando la produzione. Il **lavaggio dei pannelli su fune** permette di intervenire anche dove camminare sul tetto non è sicuro: coperture alte, molto pendenti, con lucernari o prive di linea vita.

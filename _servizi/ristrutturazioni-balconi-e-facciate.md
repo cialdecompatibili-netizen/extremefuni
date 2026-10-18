@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Ristrutturazioni balconi e facciate"
-description: "Ripristino di balconi, frontalini, facciate e coperture eseguito su fune, senza ponteggio davanti alle finestre."
+description: "Ripristino di balconi, frontalini, intonaci e facciate, anche in condominio. Lavoro su fune senza ponteggio davanti alle finestre. Sopralluogo gratuito."
 ordine: 12
 in_home: true
-seo_title: "Ristrutturazione balconi, facciate e tetti su fune, senza ponteggio"
-seo_description: "Ripristino di balconi, frontalini, intonaci, facciate e coperture lavorando su fune: meno costi, tempi più rapidi e nessun ponteggio davanti alle finestre."
+seo_title: "Ristrutturazioni balconi e facciate | Su fune, senza ponteggi"
+seo_description: "Ripristino di balconi, frontalini, intonaci e facciate, anche in condominio. Lavoro su fune senza ponteggio davanti alle finestre. Sopralluogo gratuito."
 ---
 
 Balconi con il ferro a vista, intonaci che si sfaldano, frontalini screpolati, tetti con tegole spostate: i difetti di un edificio si aggravano con ogni inverno e ogni stagione di pioggia. Un intervento fatto in tempo è un lavoro di ripristino; rimandarlo spesso significa un lavoro strutturale molto più caro.

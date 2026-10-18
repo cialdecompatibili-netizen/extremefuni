@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Montaggio isolanti"
-description: "Cappotto e isolamento termico o acustico su sottobalconi, cornicioni e porzioni di facciata, installati in quota da operatori che lavorano su fune."
+description: "Montaggio di isolanti e cappotto su sottobalconi, cornicioni e porzioni di facciata, per ridurre dispersioni e muffa. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
 ordine: 3
 in_home: true
-seo_title: "Montaggio isolanti e cappotto in quota su fune, senza ponteggi"
-seo_description: "Pannelli isolanti e cappotto su facciate, sottobalconi e cornicioni posati da operatori su fune: soluzione mirata per i punti critici, senza impalcature."
+seo_title: "Montaggio isolanti | Su fune, senza ponteggi"
+seo_description: "Montaggio di isolanti e cappotto su sottobalconi, cornicioni e porzioni di facciata, per ridurre dispersioni e muffa. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
 ---
 
 Una casa che lascia scappare il calore pesa sulla bolletta d'inverno e diventa un forno d'estate. Isolare le zone giuste, come sottobalconi, cornicioni e pareti esposte, abbassa le dispersioni, rende gli ambienti più confortevoli e spesso elimina le zone fredde dove comincia la muffa. Noi posiamo i materiali **in quota, calandoci dall'alto**, quando il lavoro è circoscritto e un'impalcatura costerebbe più dell'intervento stesso.

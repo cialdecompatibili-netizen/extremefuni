@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Pulizia componenti su fune"
-description: "Facciate, insegne, rivestimenti e parti tecniche in quota lavati da operatori su fune: nessun'impalcatura e nessun disagio per chi vive o lavora nell'edificio."
+description: "Pulizia di facciate, rivestimenti, insegne e componenti tecnici in quota, senza fermare l'edificio. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
 ordine: 9
 in_home: true
-seo_title: "Pulizia su fune di facciate, insegne e componenti in quota"
-seo_description: "Lavaggio in quota di facciate, rivestimenti, insegne, grondaie e componenti tecnici con operatori su fune, senza ponteggi e senza fermare l'edificio. Sopralluogo gratuito."
+seo_title: "Pulizia componenti su fune | Senza ponteggi"
+seo_description: "Pulizia di facciate, rivestimenti, insegne e componenti tecnici in quota, senza fermare l'edificio. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
 ---
 
 Ci sono superfici che da terra non si raggiungono e che da una scala non si possono lavare in sicurezza: pareti alte, rivestimenti, insegne, cornicioni, elementi tecnici sulla copertura. Il **lavaggio su fune** permette di arrivarci senza impalcature e senza noleggiare una piattaforma, anche dove un mezzo non entra, come un cortile stretto o una via del centro storico.

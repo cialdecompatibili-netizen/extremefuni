@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Riparazione e pulizia grondaie"
-description: "Canali di gronda e pluviali liberati, sistemati o sostituiti da operatori su fune: arrivano ovunque senza impalcature e senza piattaforme."
+description: "Pulizia, riparazione e sostituzione di grondaie e pluviali su palazzi, condomini e case, anche in vie strette. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
 ordine: 2
 in_home: true
-seo_title: "Pulizia e riparazione grondaie e pluviali su fune, senza ponteggi"
-seo_description: "Grondaie e pluviali puliti, riparati o rifatti in quota da operatori su fune: nessun'impalcatura, intervento veloce e prezzo sotto controllo. Sopralluogo gratuito."
+seo_title: "Riparazione e pulizia grondaie | Su fune, senza ponteggi"
+seo_description: "Pulizia, riparazione e sostituzione di grondaie e pluviali su palazzi, condomini e case, anche in vie strette. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
 ---
 
 Quando il canale di gronda si riempie, l'acqua piovana non ha più dove andare e prende la strada più breve: giù per la facciata. Intonaco che si macchia, sottotetto che si bagna, muffa che sale, e d'inverno il ghiaccio che forza giunti e supporti. Il guaio emerge tardi, e a quel punto il conto è parecchio più alto di una semplice pulizia.

@@ -28,11 +28,11 @@ Le regole sono quelle del **D.Lgs. 81/2008** sui lavori in quota: i sistemi di a
 | Lavoro | Perché funziona su fune |
 |---|---|
 | [Pulizia e riparazione grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}) | Intervento puntuale, ponteggio sproporzionato |
-| [Pulizia vetri]({{ '/servizi/pulizia-vetri/' | relative_url }}) | Accesso diretto alle vetrate, nessuna piattaforma |
+| [Pulizia vetri in altezza]({{ '/servizi/pulizia-vetri/' | relative_url }}) | Accesso diretto alle vetrate, nessuna piattaforma |
 | [Pulizia componenti e facciate]({{ '/servizi/pulizia-componenti-su-fune/' | relative_url }}) | Edificio utilizzabile durante il lavoro |
 | [Canne fumarie e comignoli]({{ '/servizi/pulizia-manutenzione-e-installazione-canne-fumarie/' | relative_url }}) | Si raggiunge il comignolo senza salire sul tetto |
 | [Pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}) | Non si cammina sui moduli |
-| [Installazione e manutenzione dissuasori per piccioni]({{ '/servizi/installazione-e-manutenzione-dissuasori-per-piccioni/' | relative_url }}) | Cornicioni alti, lavoro rapido |
+| [Dissuasori per piccioni]({{ '/servizi/installazione-e-manutenzione-dissuasori-per-piccioni/' | relative_url }}) | Cornicioni alti, lavoro rapido |
 | [Linee vita e ancoraggi]({{ '/servizi/montaggio-sistemi-di-sicurezza-su-fune/' | relative_url }}) | Si installa senza impalcature |
 | [Messa in sicurezza di cornicioni e intonaci]({{ '/servizi/rimozione-materiale-pericolante/' | relative_url }}) | Accesso immediato, nessuna attesa |
 | [Balconi, facciate e tetto]({{ '/servizi/ristrutturazioni-balconi-e-facciate/' | relative_url }}) | Ripristini mirati e distribuiti |

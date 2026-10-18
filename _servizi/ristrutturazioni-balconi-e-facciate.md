@@ -64,4 +64,4 @@ Sì, è uno dei vantaggi della fune: puoi intervenire per zone o per urgenza sen
 
 ## Richiedi un sopralluogo
 
-Hai un balcone da ripristinare, una facciata da sistemare o un tetto che perde? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): valutiamo l'intervento e ti diciamo tempi e costi reali. Se il problema è l'acqua, guarda [Impermeabilizzazione su fune]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}); se c'è un pericolo di caduta, [Rimozione materiale pericolante]({{ '/servizi/rimozione-materiale-pericolante/' | relative_url }}).
+Hai un balcone da ripristinare, una facciata da sistemare o un tetto che perde? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): valutiamo l'intervento e ti diciamo tempi e costi reali. Se il problema è l'acqua, guarda [Impermeabilizzazione su fune]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}); se c'è un pericolo di caduta, [Messa in sicurezza]({{ '/servizi/rimozione-materiale-pericolante/' | relative_url }}).

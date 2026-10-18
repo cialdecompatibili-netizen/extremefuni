@@ -61,4 +61,4 @@ Sì. Possiamo lasciare foto e dettaglio dei lavori da allegare al verbale.
 
 ## Contattaci
 
-Hai un impianto su un tetto difficile da raggiungere? Scrivi dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): valutiamo e ti diciamo se il lavaggio conviene davvero. Per vetrate e facciate vedi [Pulizia vetri]({{ '/servizi/pulizia-vetri/' | relative_url }}).
+Hai un impianto su un tetto difficile da raggiungere? Scrivi dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): valutiamo e ti diciamo se il lavaggio conviene davvero. Per vetrate e facciate vedi [Pulizia vetri in altezza]({{ '/servizi/pulizia-vetri/' | relative_url }}).

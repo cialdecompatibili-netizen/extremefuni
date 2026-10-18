@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Pulizia vetri"
+title: "Pulizia vetri in altezza"
 description: "Lavaggio di vetrate, facciate continue e finestre in quota su fune, senza piattaforme e senza fermare l'edificio."
 ordine: 11
 in_home: true
-seo_title: "Pulizia vetri su fune: vetrate e facciate senza piattaforme"
+seo_title: "Pulizia vetri in altezza su fune: vetrate e facciate senza piattaforme"
 seo_description: "Lavaggio di vetrate, facciate continue e finestre alte calandosi su fune: niente piattaforma o ponteggio, edificio sempre accessibile. Sopralluogo gratuito."
 ---
 

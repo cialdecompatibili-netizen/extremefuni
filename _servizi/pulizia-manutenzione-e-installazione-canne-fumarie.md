@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Canne fumarie"
+title: "Pulizia, manutenzione e installazione canne fumarie"
 description: "Controllo, spazzolatura, riparazione e montaggio di canne fumarie e comignoli, con operatori che raggiungono il terminale dall'alto, appesi a una fune."
 ordine: 4
 in_home: true

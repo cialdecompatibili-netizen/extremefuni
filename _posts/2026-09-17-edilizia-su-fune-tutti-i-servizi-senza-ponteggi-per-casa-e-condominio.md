@@ -23,13 +23,13 @@ Non è la soluzione per tutto: funziona al meglio su **interventi mirati**. Per 
 
 ## Manutenzione e sicurezza in quota
 
-**[Canne fumarie](/servizi/pulizia-manutenzione-e-installazione-canne-fumarie/)**: verifica, pulizia e installazione in quota.
+**[Pulizia, manutenzione e installazione canne fumarie](/servizi/pulizia-manutenzione-e-installazione-canne-fumarie/)**: verifica, pulizia e installazione in quota.
 
-**[Dissuasori per piccioni](/servizi/installazione-e-manutenzione-dissuasori-per-piccioni/)**: sistemi anti-volatili su cornicioni, balconi e coperture.
+**[Installazione e manutenzione dissuasori per piccioni](/servizi/installazione-e-manutenzione-dissuasori-per-piccioni/)**: sistemi anti-volatili su cornicioni, balconi e coperture.
 
-**[Sistemi di sicurezza su fune](/servizi/montaggio-sistemi-di-sicurezza-su-fune/)**: linee vita e ancoraggi per lavorare in sicurezza in copertura.
+**[Montaggio sistemi di sicurezza su fune](/servizi/montaggio-sistemi-di-sicurezza-su-fune/)**: linee vita e ancoraggi per lavorare in sicurezza in copertura.
 
-**[Messa in sicurezza](/servizi/rimozione-materiale-pericolante/)**: rimozione di intonaci e cornicioni a rischio caduta.
+**[Rimozione materiale pericolante](/servizi/rimozione-materiale-pericolante/)**: rimozione di intonaci e cornicioni a rischio caduta.
 
 ## Pulizia e cura del verde
 
@@ -39,7 +39,7 @@ Non è la soluzione per tutto: funziona al meglio su **interventi mirati**. Per 
 
 **[Pulizia pannelli fotovoltaici](/servizi/pulizia-pannelli-fotovoltaici/)**: manutenzione degli impianti in copertura.
 
-**[Pulizia vetri in altezza](/servizi/pulizia-vetri/)**: vetrate e infissi di edifici alti.
+**[Pulizia vetri](/servizi/pulizia-vetri/)**: vetrate e infissi di edifici alti.
 
 ## Ristrutturazione ed estetica
 

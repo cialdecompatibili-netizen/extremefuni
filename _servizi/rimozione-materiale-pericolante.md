@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Messa in sicurezza"
+title: "Rimozione materiale pericolante"
 description: "Intonaci, cornicioni e frontalini che si sgretolano vengono eliminati in fretta da operatori su fune, prima che qualcosa cada su chi passa."
 ordine: 7
 in_home: true

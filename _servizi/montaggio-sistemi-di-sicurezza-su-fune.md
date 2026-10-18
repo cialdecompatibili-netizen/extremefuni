@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Sistemi di sicurezza su fune"
+title: "Montaggio sistemi di sicurezza su fune"
 description: "Linee vita, punti di ancoraggio e dispositivi anticaduta installati in copertura da operatori su fune, con tutta la documentazione tecnica consegnata a fine lavoro."
 ordine: 6
 in_home: true

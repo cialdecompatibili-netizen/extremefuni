@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Dissuasori per piccioni"
+title: "Installazione e manutenzione dissuasori per piccioni"
 description: "Montaggio e controllo di sistemi anti-volatili su cornicioni, davanzali, balconi e coperture, eseguiti da operatori su fune senza alcun'impalcatura."
 ordine: 5
 in_home: true

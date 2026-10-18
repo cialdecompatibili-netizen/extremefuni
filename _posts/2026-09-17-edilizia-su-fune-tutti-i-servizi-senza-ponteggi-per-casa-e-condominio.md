@@ -39,7 +39,7 @@ Non è la soluzione per tutto: funziona al meglio su **interventi mirati**. Per 
 
 **[Pulizia pannelli fotovoltaici](/servizi/pulizia-pannelli-fotovoltaici/)**: manutenzione degli impianti in copertura.
 
-**[Pulizia vetri in altezza](/servizi/pulizia-vetri/)**: vetrate e infissi di edifici alti.
+**[Pulizia vetri](/servizi/pulizia-vetri/)**: vetrate e infissi di edifici alti.
 
 ## Ristrutturazione ed estetica
 

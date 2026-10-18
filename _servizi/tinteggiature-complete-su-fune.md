@@ -1,54 +1,53 @@
 ---
 layout: single
 title: "Tinteggiature complete su fune"
-description: "Tinteggiatura di facciate e pareti esterne in quota, senza ponteggio, con tecniche di accesso su fune."
+description: "Pittura di facciate e muri esterni a qualsiasi altezza, con operatori che lavorano in verticale e rendono superfluo il ponteggio."
 ordine: 13
 in_home: false
 seo_title: "Tinteggiatura facciate su fune, senza ponteggio per condomini e attività"
-seo_description: "Tinteggiatura esterna di facciate condominiali e commerciali lavorando su fune: preparazione, fondo e finitura, senza ponteggio. Sopralluogo gratuito."
+seo_description: "Rinnova la facciata del tuo condominio o negozio: pittura esterna eseguita in fune, con preparazione del fondo e finitura curata, senza impalcature. Sopralluogo senza spese."
 ---
 
-Ridare colore a una facciata di solito significa settimane di ponteggio, con i relativi costi e l'ingombro davanti a ingressi e negozi. Con l'accesso su fune si può evitare il ponteggio in molti casi, lavorando in verticale lungo tutta la superficie.
+Ritinteggiare una facciata vuol dire, nella maggior parte dei casi, settimane di impalcature, costi di nolo e un cantiere che blocca ingressi e vetrine. Lavorando in fune si può spesso farne a meno: gli operatori percorrono la parete dall'alto e la trattano per intero.
 
-## Cosa comprende il servizio
+## Cosa include il lavoro
 
-- Lavaggio e preparazione della superficie.
-- Stuccatura di crepe e imperfezioni.
-- Fondo fissativo e ciclo di pittura completo.
-- Trattamenti anti-muffa e anti-smog, su richiesta.
+- Pulizia e lavaggio del supporto.
+- Riparazione di crepe, buchi e parti ammalorate con stucco o rasante.
+- Applicazione del fondo e del ciclo completo di pittura.
+- Prodotti anti-muffa e anti-smog, se richiesti.
 - Finiture decorative o materiche, su richiesta.
 
-## Materiali
+## Le pitture che usiamo
 
-Usiamo pitture professionali per esterno scelte in base al supporto e all'esposizione: prodotti traspiranti per murature datate, elastomerici per superfici con microfessurazioni, finiture lavabili per zone esposte a smog e umidità. Il ciclo prevede una mano di fondo e almeno due mani di finitura.
+La scelta dipende dal tipo di muro e dall'esposizione: **traspiranti** per intonaci vecchi, **elastomeriche** per pareti con piccole fessure, **lavabili** per zone soggette a smog e umidità. Il ciclo standard comprende una mano di fondo e almeno due di finitura.
 
-## Come si svolge
+## Fasi operative
 
-1. **Sopralluogo**: valutiamo altezza, tipo di superficie, punti di ancoraggio in copertura e stato dell'intonaco.
-2. **Preventivo scritto**, con eventuali ripristini da fare prima della tinteggiatura.
-3. **Lavoro su fune**, in giornate senza pioggia e con vento contenuto.
-4. **Controllo finale** con la committenza.
+1. **Sopralluogo** per misurare l'altezza, esaminare l'intonaco e individuare dove ancorare le funi in copertura.
+2. **Preventivo scritto**, con indicati gli eventuali ripristini preliminari.
+3. **Esecuzione su fune**, scegliendo giornate asciutte e senza vento forte.
+4. **Verifica finale** insieme al committente.
 
-## Tempi
+## Quanto tempo richiede
 
-Senza montaggio e smontaggio del ponteggio i tempi si riducono, ma dipendono da metratura, complessità e meteo. Dopo il sopralluogo ti diamo una stima realistica.
+Senza montare e smontare il ponteggio si guadagna tempo, ma la durata dipende da superficie, difficoltà e condizioni meteo. Dopo aver visto l'edificio ti forniamo una previsione realistica.
 
-## Limiti
+## I casi in cui conviene altro
 
-Per facciate molto estese, con grandi lavori di ripristino o con lavorazioni pesanti, il ponteggio può essere la soluzione più efficiente. Su edifici vincolati o in centro storico possono servire autorizzazioni e colori concordati: ti aiutiamo a capirlo prima di iniziare.
+Se la facciata è molto estesa, richiede ripristini importanti o lavorazioni pesanti, il ponteggio può risultare più efficiente. Negli edifici vincolati o nei centri storici possono servire permessi e tinte concordate: ti aiutiamo a verificarlo prima di partire.
 
 ## Domande frequenti
 
-### Il risultato è uguale a quello con il ponteggio?
-Sì, a parità di materiali e di cura nella preparazione: cambia il modo di raggiungere la parete, non il ciclo di pittura.
+### La resa è la stessa del lavoro con ponteggio?
+Sì: se i materiali e la preparazione sono gli stessi, il risultato non cambia. Varia solo il modo di arrivare alla parete.
 
-### Posso tinteggiare solo una parte della facciata?
-Sì, è uno dei vantaggi della fune: si può intervenire per zone senza pagare ogni volta il ponteggio.
+### Si può dipingere solo una porzione della facciata?
+Certo, ed è uno dei punti di forza della fune: si lavora per zone senza dover pagare ogni volta un nuovo ponteggio.
 
-### I negozi o gli ingressi restano accessibili?
-Sì, non ci sono impalcature davanti all'ingresso. L'area sotto il lavoro viene delimitata per sicurezza.
+### Ingressi e negozi restano utilizzabili?
+Sì, perché non ci sono impalcature davanti alle porte. L'area sottostante viene comunque transennata per sicurezza.
 
+## Contattaci per un sopralluogo
 
-## Richiedi un sopralluogo
-
-Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): valutiamo il lavoro, ti diciamo se la fune è la scelta giusta e ricevi un preventivo scritto, senza impegno.
+Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): esaminiamo il lavoro, ti diciamo se la fune è la soluzione adatta e ti inviamo un preventivo scritto, senza alcun impegno.

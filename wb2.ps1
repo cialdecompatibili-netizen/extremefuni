@@ -1,4 +1,4 @@
-$bat = @"
+﻿$bat = @"
 @echo off
 cd /d "%~dp0"
 git add .
@@ -7,5 +7,5 @@ git push
 echo Fatto! Sito live in 60 secondi.
 pause
 "@
-[System.IO.File]::WriteAllText("C:\Users\mirco\Desktop\Jekyll + GitHub\2-PUBBLICA.bat", $bat, [System.Text.Encoding]::ASCII)
+[System.IO.File]::WriteAllText("C:\Users\mirco\Desktop\repository\Jekyll + GitHub\2-PUBBLICA.bat", $bat, [System.Text.Encoding]::ASCII)
 Write-Host OK

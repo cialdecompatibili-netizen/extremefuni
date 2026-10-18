@@ -19,7 +19,7 @@ Obiettivo finale: trasformarlo in un CMS per **one-page editabile** con pochi pr
 - Repo: https://github.com/cialdecompatibili-netizen/onepagecmspush
 - Sito live: https://cialdecompatibili-netizen.github.io/onepagecmspush/
 - Admin: https://cialdecompatibili-netizen.github.io/onepagecmspush/admin/
-- Locale: C:\Users\mirco\Desktop\onepagecmspush
+- Locale: C:\Users\mirco\Desktop\repository\onepagecmspush
 - Branch: main
 - Remote: origin (token gia nell'URL remoto, niente credenziali da chiedere)
 
@@ -35,14 +35,14 @@ Nessuna eccezione, anche per task piccoli.
 
 ### 2. Push GitHub - autonomo
 Claude pusha da solo senza aspettare conferma, usando PowerShell:
-cd "C:\Users\mirco\Desktop\onepagecmspush"; git add .; git commit -m "descrizione"; git push
+cd "C:\Users\mirco\Desktop\repository\onepagecmspush"; git add .; git commit -m "descrizione"; git push
 Se push rejected (fetch first) - SEMPRE:
 git pull --rebase; git push
 
 ### 3. Token GitHub - gia disponibile
 Il token e incorporato nel remote URL di cmspush (repo sorgente). Per operazioni API
 (creazione repo, Pages, ecc.) si estrae cosi, senza chiedere a Mirco:
-$token = (git -C "C:\Users\mirco\Desktop\cmspush" remote get-url origin) -replace '.*ghp_([A-Za-z0-9]+)@.*','ghp_$1'
+$token = (git -C "C:\Users\mirco\Desktop\repository\cmspush" remote get-url origin) -replace '.*ghp_([A-Za-z0-9]+)@.*','ghp_$1'
 
 ### 4. GitHub Pages
 Attivato su branch main, root (/). Build automatica ad ogni push (1-2 min).

@@ -1,61 +1,61 @@
 ---
 layout: single
 title: "Sistemi di sicurezza su fune"
-description: "Montaggio di linee vita, ancoraggi e sistemi anticaduta in copertura, con documentazione completa."
+description: "Linee vita, punti di ancoraggio e dispositivi anticaduta installati in copertura da operatori in corda, con tutta la documentazione tecnica consegnata a fine lavoro."
 ordine: 6
 in_home: true
 seo_title: "Linee vita e ancoraggi anticaduta su fune: montaggio con documentazione"
-seo_description: "Montaggio di linee vita, punti di ancoraggio e sistemi anticaduta su coperture e facciate, operando su fune. Documentazione completa e sopralluogo gratuito."
+seo_description: "Linee vita, ancoraggi e sistemi anticaduta per tetti e facciate, montati da operatori in fune con documentazione completa. Primo sopralluogo senza spese."
 ---
 
-Chi deve lavorare su un tetto, per una riparazione o una pulizia, ha bisogno di un modo sicuro per agganciarsi. Una **linea vita** o un sistema di **ancoraggi anticaduta** permette a manutentori e operatori di intervenire in copertura in sicurezza, ora e negli anni a venire. Per molti edifici, in particolare in caso di nuove costruzioni e ristrutturazioni, la presenza di dispositivi di sicurezza in copertura è richiesta anche dalle norme regionali.
+Chiunque debba salire su un tetto, per riparare, pulire o ispezionare, ha bisogno di un punto sicuro a cui agganciarsi. Una **linea vita** o una rete di **ancoraggi anticaduta** consente a manutentori e tecnici di lavorare in copertura al riparo da cadute, oggi e nei prossimi anni. Per le nuove costruzioni e per molte ristrutturazioni questi dispositivi sono anche richiesti dai regolamenti regionali.
 
-Noi installiamo questi sistemi operando **su fune**, senza montare un ponteggio solo per mettere in sicurezza il tetto.
+Li installiamo **in corda**, quindi senza costruire un ponteggio solo per rendere sicuro il tetto.
 
-## Cosa facciamo
+## Le nostre attività
 
-- **Installazione di linee vita** flessibili e rigide su coperture inclinate e piane.
-- **Punti di ancoraggio** puntuali su tetti, facciate e cornicioni.
-- **Ganci da tetto** e dispositivi di ancoraggio su coperture in coppi, tegole o lamiera.
-- **Verifica e manutenzione** di impianti già esistenti, con controllo periodico.
-- **Documentazione**: elaborato tecnico della copertura, schede dei dispositivi e dichiarazione di installazione.
+- **Linee vita** flessibili e rigide su coperture inclinate e piane.
+- **Ancoraggi puntuali** su tetti, facciate e cornicioni.
+- **Ganci da copertura** per tetti in coppi, tegole o lamiera.
+- **Controllo e manutenzione** di impianti già presenti, con verifiche periodiche.
+- **Documenti**: elaborato tecnico della copertura, schede dei dispositivi e dichiarazione di corretta installazione.
 
-## Cosa dicono le norme
+## I riferimenti normativi
 
-I sistemi di ancoraggio permanente in copertura fanno riferimento alla **UNI EN 795** per i dispositivi e alla **UNI 11560** per progettazione, installazione, uso e manutenzione. Gli impianti vanno **controllati periodicamente** secondo le indicazioni del produttore, e la documentazione deve restare a disposizione di chi lavora sul tetto. Le regole su obbligo e modalità variano da Regione a Regione: ti diciamo cosa vale nella tua zona in fase di sopralluogo.
+I dispositivi di ancoraggio permanenti sono regolati dalla **UNI EN 795**, mentre progettazione, posa, uso e manutenzione fanno capo alla **UNI 11560**. Gli impianti si **ispezionano a scadenze regolari**, secondo le istruzioni del produttore, e i documenti devono restare disponibili per chiunque lavori sul tetto. Obblighi e modalità cambiano da Regione a Regione: in sopralluogo ti spieghiamo cosa vale dove si trova il tuo edificio.
 
-## Come lavoriamo
+## Le tappe
 
-1. **Sopralluogo**: guardiamo copertura, materiali, pendenze, punti di accesso e struttura di fissaggio.
-2. **Progetto e preventivo**: scegliamo il tipo di sistema e il numero di punti, con costi spiegati.
-3. **Installazione su fune**, con doppia fune di lavoro e di sicurezza.
-4. **Collaudo e consegna della documentazione**, con le istruzioni per l'uso e il calendario dei controlli.
+1. **Rilievo**: copertura, materiali, pendenze, accessi e strutture a cui fissare.
+2. **Progetto e prezzo**: tipo di sistema e numero di punti, con costi dettagliati.
+3. **Montaggio in fune**, con due funi indipendenti di lavoro e sicurezza.
+4. **Collaudo e consegna** dei documenti, delle istruzioni d'uso e del calendario dei controlli.
 
-## Perché su fune invece del ponteggio
+## Il vantaggio rispetto al ponteggio
 
-Montare un ponteggio per installare una linea vita significa pagare l'accesso più del lavoro stesso. Su fune **raggiungiamo il colmo e i bordi della copertura direttamente**, in tempi rapidi e senza occupare suolo pubblico. Ed è un investimento che si ripaga: una volta installata, la linea vita permette di fare le manutenzioni future, come grondaie, camini e pannelli, senza noleggiare ogni volta un ponteggio.
+Alzare un'impalcatura per montare una linea vita vuol dire pagare l'accesso più del lavoro. Con la corda **arriviamo direttamente a colmo e bordi della copertura**, in tempi brevi e senza occupare suolo pubblico. È anche una spesa che si ripaga: una volta presente la linea vita, le manutenzioni successive, da grondaie a camini a pannelli, non richiedono di noleggiare ogni volta un ponteggio.
 
 ## Sicurezza e limiti
 
-Operiamo con personale formato, come previsto dal D.Lgs. 81/2008. La verifica della tenuta dei fissaggi dipende dalla struttura di appoggio: al sopralluogo controlliamo che travi, cordoli e supporti siano adatti, e se non lo sono te lo diciamo, senza installare un sistema che non regge. Per la progettazione di impianti complessi può servire un tecnico abilitato: ti indichiamo come procedere.
+Operiamo con personale formato secondo il D.Lgs. 81/2008. La tenuta di un fissaggio dipende da ciò a cui è ancorato: in sopralluogo verifichiamo travi, cordoli e supporti, e se non sono adeguati lo diciamo, invece di montare un sistema che non regge. Per impianti complessi può servire un progettista abilitato, e ti indichiamo come procedere.
 
 ## Domande frequenti
 
-### La linea vita è obbligatoria?
-Dipende dalla Regione e dal tipo di intervento. In molte zone è richiesta per nuove costruzioni e per lavori sulla copertura. Al sopralluogo ti spieghiamo cosa vale per il tuo edificio.
+### La linea vita è un obbligo?
+Dipende da Regione e tipo di intervento. In molte zone è richiesta per le nuove costruzioni e per i lavori in copertura. Ti diciamo cosa vale per il tuo edificio durante la visita.
 
-### Ogni quanto va controllata?
-Secondo le indicazioni del produttore e della normativa: la cadenza è scritta nel manuale dell'impianto (spesso intorno ai due anni) e va anticipata dopo eventi che possono averlo sollecitato, come una caduta.
+### Con che cadenza va ispezionata?
+Come indicato da produttore e norme: la scadenza è nel manuale dell'impianto, spesso intorno ai due anni, e va anticipata dopo eventi che possono averlo sollecitato, come la caduta di un operatore.
 
-### Quanto costa installare una linea vita?
-Dipende da lunghezza, tipo di copertura e numero di punti. Dopo il sopralluogo ricevi un preventivo con le voci spiegate.
+### Quanto costa farla montare?
+Dipende da lunghezza, tipo di tetto e numero di punti. Dopo il sopralluogo arriva un preventivo con le voci spiegate.
 
-### Posso installarla in un edificio esistente?
-Sì, previa verifica dei supporti. Spesso è l'intervento più utile prima di lavori di manutenzione sul tetto.
+### Si può mettere su un edificio esistente?
+Sì, dopo aver controllato i supporti. Spesso è il primo passo utile prima di qualsiasi manutenzione in copertura.
 
-### Rilasciate la documentazione?
-Sì, con schede tecniche, dichiarazione di installazione e piano di manutenzione.
+### Consegnate i documenti?
+Sì: schede tecniche, dichiarazione di installazione e piano di manutenzione.
 
-## Richiedi un sopralluogo
+## Chiedi un sopralluogo
 
-Devi mettere in sicurezza una copertura? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): ti diciamo quale sistema serve e cosa comporta. Per i lavori che userai poi sulla linea vita guarda [Riparazione e pulizia grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}) e [Pulizia pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}).
+Devi rendere sicura una copertura? Scrivi dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): ti diciamo quale sistema serve e cosa comporta. Per i lavori che farai poi appoggiandoti alla linea vita guarda [Riparazione e pulizia grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}) e [Pulizia pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}).

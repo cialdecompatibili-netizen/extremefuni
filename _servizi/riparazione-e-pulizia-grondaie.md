@@ -1,70 +1,70 @@
 ---
 layout: single
 title: "Riparazione e pulizia grondaie"
-description: "Pulizia e sostituzione di grondaie e pluviali su fune, senza ponteggi: sopralluogo gratuito e preventivo chiaro."
+description: "Canali di gronda e pluviali liberati, sistemati o sostituiti da operatori in fune: arrivano ovunque senza impalcature e senza piattaforme."
 ordine: 2
 in_home: true
 seo_title: "Pulizia e riparazione grondaie e pluviali su fune, senza ponteggi"
-seo_description: "Pulizia, riparazione e sostituzione di grondaie e pluviali in quota, operando su fune: niente ponteggio, tempi rapidi, costi contenuti. Sopralluogo gratuito."
+seo_description: "Grondaie e pluviali puliti, riparati o rifatti in quota da operatori in fune: nessuna impalcatura, intervento veloce e prezzo sotto controllo. Sopralluogo gratuito."
 ---
 
-Una grondaia intasata smette di fare il suo lavoro: l'acqua trabocca sulla facciata, bagna l'intonaco, si infiltra sotto le tegole e nei mesi freddi gela, spaccando giunti e staffe. Il danno non si vede subito, ma quando compaiono macchie di umidità o muffa sul muro, la riparazione costa molto più della manutenzione.
+Quando il canale di gronda si riempie, l'acqua piovana non ha più dove andare e prende la strada più breve: giù per la facciata. Intonaco che si macchia, sottotetto che si bagna, muffa che sale, e d'inverno il ghiaccio che forza giunti e supporti. Il guaio emerge tardi, e a quel punto il conto è parecchio più alto di una semplice pulizia.
 
-Con la **pulizia e riparazione delle grondaie su fune** arriviamo al canale di gronda senza montare un ponteggio e senza affittare una piattaforma aerea. È la soluzione più pratica per case a più piani, condomini, edifici in centro storico e cortili dove un mezzo non entra.
+Per raggiungere la gronda non serve costruire nulla. Gli operatori si calano dal tetto, lavorano a pochi centimetri dal canale e ripristinano il deflusso lungo l'intero percorso. È il metodo più sensato per palazzine alte, condomini, vie strette dei centri storici e cortili dove un mezzo non riesce a entrare.
 
-## Cosa facciamo
+## Gli interventi principali
 
-- **Pulizia di grondaie e pluviali**: rimozione di foglie, aghi di pino, fango, nidi e piccoli arbusti che crescono nel canale.
-- **Controllo di giunti, staffe e pendenze**, per capire se l'acqua scorre davvero fino al pluviale.
-- **Sigillatura e riparazione** dei punti che gocciolano.
-- **Sostituzione dei tratti ammalorati** di canale, curve, terminali e pluviali.
-- **Fissaggio o sostituzione delle staffe** allentate.
-- **Foto prima e dopo**, se le vuoi, per documentare lo stato dell'impianto (utile anche per l'amministratore di condominio).
+- **Svuotamento di canali e pluviali** da foglie, aghi, terriccio, nidi e piantine che mettono radici nella gronda.
+- **Verifica di giunzioni, supporti e pendenza**, per accertare che l'acqua arrivi davvero allo scarico.
+- **Chiusura delle perdite** con sigillanti adatti al materiale.
+- **Rifacimento dei tratti rovinati**: canale, angoli, testate, discendenti.
+- **Riancoraggio o cambio dei sostegni** che hanno ceduto.
+- **Fotografie prima e dopo**, comode anche per l'amministratore che deve giustificare la spesa.
 
-## Quando conviene intervenire
+## I segnali che indicano di agire
 
-Non serve aspettare l'infiltrazione. I segnali da non ignorare sono:
+Meglio non attendere la prima infiltrazione. Chiediti se noti:
 
-- acqua che cade a cascata dal bordo del tetto durante la pioggia;
-- macchie scure o verdastre sotto la gronda;
-- vegetazione che spunta dal canale;
-- grondaie inclinate, staccate o con giunti aperti;
-- ghiaccioli sempre negli stessi punti d'inverno.
+- acqua che scende a cortina dal bordo del tetto quando piove;
+- aloni scuri o verdi sotto la linea di gronda;
+- erba o arbusti che spuntano dal canale;
+- tratti storti, staccati o con le giunzioni aperte;
+- ghiaccioli che si formano sempre nello stesso punto.
 
-Il momento migliore è **dopo la caduta delle foglie**, a fine autunno, e prima della stagione delle piogge forti. Dove ci sono molti alberi vicini, una pulizia in più all'anno evita problemi.
+Il periodo ideale è **subito dopo la caduta delle foglie**, prima delle piogge intense dell'inverno. Con alberi alti vicini all'edificio, una seconda pulizia in primavera evita brutte sorprese.
 
-## Come lavoriamo
+## Il nostro metodo
 
-1. **Sopralluogo**: guardiamo lo sviluppo delle grondaie, i punti di ancoraggio e lo spazio a terra.
-2. **Preventivo chiaro**, con le voci spiegate: pulizia, riparazioni, eventuali sostituzioni.
-3. **Intervento su fune** con sistema a doppia fune, partendo dall'alto e verificando il deflusso lungo tutto il percorso.
-4. **Controllo finale**: prova di scorrimento dell'acqua e, se serve, foto del lavoro.
+1. **Visita sul posto**: percorso delle gronde, punti d'attacco in copertura, spazio disponibile a terra.
+2. **Preventivo dettagliato**, dove pulizia, riparazioni ed eventuali sostituzioni sono voci separate.
+3. **Esecuzione in fune**, con due funi indipendenti, dall'alto verso il basso, controllando lo scorrimento in ogni tratto.
+4. **Collaudo**: prova dell'acqua e, a richiesta, documentazione fotografica.
 
-## Perché su fune invece del ponteggio
+## Perché rinunciare al ponteggio
 
-Per un lavoro di sola gronda, il ponteggio pesa soprattutto in montaggio, noleggio e smontaggio, spesso più del lavoro stesso. Su fune questi costi non ci sono: **risparmi sull'accesso, non sulla cura del lavoro**. Non occupi suolo pubblico, non servono permessi per il ponteggio e l'edificio resta utilizzabile.
+Per un lavoro limitato alla gronda, quasi tutta la spesa di un ponteggio sta nel montaggio, nel nolo e nello smontaggio, spesso più del lavoro vero e proprio. Con la fune quelle voci spariscono: **si risparmia sull'accesso, non sulla qualità**. Niente occupazione di suolo pubblico, niente pratiche per l'impalcatura, e chi abita l'edificio continua a usare balconi e finestre.
 
-## Sicurezza e limiti
+## Sicurezza e quando rimandiamo
 
-Operiamo con personale formato per i sistemi di accesso e posizionamento mediante funi, come previsto dal D.Lgs. 81/2008, con doppia fune di lavoro e di sicurezza. Con pioggia forte, ghiaccio o vento forte l'intervento si rimanda. Se invece c'è da rifare l'intero sistema di raccolta su una struttura molto estesa, al sopralluogo ti diciamo con onestà se conviene un altro metodo.
+Il personale è formato al lavoro con funi come richiede il D.Lgs. 81/2008 e usa sempre una fune di lavoro e una di sicurezza. Pioggia battente, ghiaccio e raffiche importanti fanno rimandare l'intervento. Se poi l'intero sistema di raccolta di un edificio molto esteso va rifatto da zero, ti spieghiamo con franchezza quando un metodo diverso conviene di più.
 
 ## Domande frequenti
 
-### Ogni quanto vanno pulite le grondaie?
-Di norma almeno una volta all'anno, meglio dopo la caduta delle foglie. Con molti alberi intorno può servire una seconda pulizia.
+### Con che frequenza si puliscono le grondaie?
+Almeno una volta l'anno, preferibilmente a fine autunno. Se intorno ci sono molte piante conviene aggiungere un secondo passaggio.
 
-### Quanto costa pulire una grondaia su fune?
-Dipende dalla lunghezza, dall'altezza e da quanto sporco c'è. Dopo il sopralluogo ricevi un preventivo con le voci spiegate una per una.
+### Qual è il costo di una pulizia in fune?
+Dipende da lunghezza del canale, altezza dell'edificio e quantità di residui. Dopo la visita ricevi un prezzo scritto con le voci chiare.
 
-### Servono permessi o il ponteggio?
-Per la pulizia e le riparazioni più comuni no: si lavora su fune. Lo verifichiamo insieme al sopralluogo.
+### Occorrono permessi o ponteggi?
+Per pulizie e riparazioni ordinarie no, si lavora in fune. Lo verifichiamo insieme in fase di sopralluogo.
 
-### Riparate anche i pluviali?
-Sì: pluviali, curve, terminali e tratti rovinati si riparano o si sostituiscono nello stesso intervento.
+### Si possono sistemare anche i pluviali?
+Sì, nello stesso intervento: discendenti, curve, terminali e tratti danneggiati vengono riparati o cambiati.
 
-### Posso richiedere l'intervento per un condominio?
-Certo. Lavoriamo spesso per amministratori e condomini: possiamo lasciare foto e dettaglio dei lavori da allegare al verbale.
+### Lavorate per i condomini?
+Spesso. Possiamo consegnare foto e relazione dei lavori da allegare al verbale di assemblea.
 
-## Richiedi un sopralluogo
+## Contattaci
 
-Hai una grondaia che trabocca o un pluviale da sistemare? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): ti diciamo cosa serve davvero, tempi e costi, senza impegno. Se la gronda fa parte di un lavoro più ampio guarda anche [Ristrutturazioni di balconi e facciate]({{ '/servizi/ristrutturazioni-balconi-e-facciate/' | relative_url }}) e [Impermeabilizzazione su fune]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}).
+Hai una gronda che cola o un pluviale da rimettere a posto? Scrivi dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): ti diciamo cosa serve, in quanto tempo e con quale spesa, senza impegno. Se la gronda rientra in un intervento più grande, dai un'occhiata anche a [Ristrutturazioni di balconi e facciate]({{ '/servizi/ristrutturazioni-balconi-e-facciate/' | relative_url }}) e [Impermeabilizzazione su fune]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}).

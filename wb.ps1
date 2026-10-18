@@ -1,4 +1,4 @@
-$bat = @"
+﻿$bat = @"
 @echo off
 cd /d "%~dp0"
 git init
@@ -12,5 +12,5 @@ start https://github.com/cialdecompatibili-netizen/cialdecompatibili-netizen.git
 echo Nella pagina: Source - Deploy from a branch - Branch main - Save
 pause
 "@
-[System.IO.File]::WriteAllText("C:\Users\mirco\Desktop\Jekyll + GitHub\1-SETUP-PRIMA-VOLTA.bat", $bat, [System.Text.Encoding]::ASCII)
+[System.IO.File]::WriteAllText("C:\Users\mirco\Desktop\repository\Jekyll + GitHub\1-SETUP-PRIMA-VOLTA.bat", $bat, [System.Text.Encoding]::ASCII)
 Write-Host OK

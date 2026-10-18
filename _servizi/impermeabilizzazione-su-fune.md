@@ -1,54 +1,53 @@
 ---
 layout: single
 title: "Impermeabilizzazione su fune"
-description: "Impermeabilizzazione di terrazzi, balconi, cornicioni e punti critici del tetto lavorando su fune, senza ponteggio."
+description: "Terrazzi, balconi, cornicioni e punti deboli della copertura resi di nuovo a tenuta d'acqua, con operatori che scendono dall'alto e nessun ponteggio da montare."
 ordine: 1
 in_home: true
 seo_title: "Impermeabilizzazione su fune: terrazzi, balconi e tetti senza ponteggio"
-seo_description: "Impermeabilizzazione di terrazzi, balconi, cornicioni e coperture lavorando su fune: interventi mirati, niente ponteggio, sopralluogo gratuito."
+seo_description: "Stop a infiltrazioni e umidità su terrazzi, balconi, cornicioni e coperture: trattamenti eseguiti da operatori in fune, senza impalcature. Primo sopralluogo senza costi."
 ---
 
-Le infiltrazioni raramente restano piccole: l'acqua entra nel cemento, corrode i ferri d'armatura e trasforma un difetto della copertura in un danno strutturale. Intervenire presto costa molto meno che rifare un solaio.
+Un'infiltrazione trascurata non resta mai ferma. L'acqua si fa strada nel calcestruzzo, raggiunge i ferri, li fa arrugginire e li gonfia fino a staccare il copriferro. Quella che era una macchia sul soffitto diventa un cantiere di ripristino strutturale, con costi che nessuno aveva messo in conto.
 
-Con **l'impermeabilizzazione su fune** raggiungiamo il punto da trattare dall'alto, senza montare ponteggi o piattaforme: ideale per interventi mirati su terrazzi, balconi, cornicioni, giunti e punti critici del tetto.
+Il nostro approccio è fermare l'ingresso dell'acqua nel punto esatto in cui avviene. Gli operatori scendono dall'alto lungo la facciata, raggiungono il giunto, il bordo o la soletta che cede e lo trattano sul posto, senza impalcature e senza autoscale.
 
-## Cosa facciamo
+## Dove interveniamo
 
-- **Guaine e membrane liquide** su terrazzi, balconi e superfici piane o poco inclinate.
-- **Sigillatura di giunti, converse e colmi**, dove l'acqua si infiltra più spesso.
-- **Trattamento di crepe e distacchi** del supporto prima di applicare il nuovo strato.
-- **Impermeabilizzazione di cornicioni e sottobalconi**, per proteggere intonaco e ferri.
+- **Terrazzi e balconi**: guaine, resine e membrane liquide stese a regola d'arte sulle superfici piane o a bassa pendenza.
+- **Giunti, converse, colmi e bordi di copertura**: i punti in cui la pioggia trova la strada più facilmente.
+- **Cornicioni e sottobalconi**: trattamento protettivo di intonaco e armature esposte.
+- **Fessure e microcrepe**: vengono prima aperte, pulite e richiuse, poi coperte dal nuovo strato.
 
-## Come lavoriamo
+## Le fasi del lavoro
 
-1. **Sopralluogo** con ispezione dall'alto e individuazione dei punti d'ingresso dell'acqua.
-2. **Preparazione del supporto**: pulizia e ripristino di crepe e parti ammalorate.
-3. **Applicazione** del sistema impermeabilizzante adatto alla superficie.
-4. **Controllo finale** con foto del lavoro eseguito.
+1. **Ispezione**: osserviamo l'area dall'alto per capire da dove entra davvero l'acqua, che spesso non coincide con il punto in cui compare l'umidità all'interno.
+2. **Preparazione**: eliminiamo le parti incoerenti, ripuliamo e ripristiniamo il fondo, perché una guaina posata su un supporto fragile non dura.
+3. **Posa** del prodotto più adatto al tipo di superficie e all'esposizione.
+4. **Verifica e documentazione fotografica** di quanto eseguito.
 
-## Quando conviene e quando no
+## Quando la fune è la scelta giusta
 
-La fune dà il meglio su **interventi localizzati**: una giunzione che perde, un terrazzo, un cornicione. Per il **rifacimento completo di una grande copertura** il ponteggio può essere più adatto, e al sopralluogo te lo diciamo chiaramente.
+Funziona al meglio sugli **interventi localizzati**: un terrazzo, un bordo che perde, una soletta a sbalzo, un giunto aperto. Se invece c'è da rifare per intero una copertura molto estesa, un ponteggio o un'altra soluzione può essere più sensata, e durante il sopralluogo lo diciamo senza giri di parole.
 
-## Sicurezza
+## Come lavoriamo in sicurezza
 
-Lavoriamo con doppia fune (di lavoro e di sicurezza), con personale formato per l'accesso e il posizionamento mediante funi come previsto dal D.Lgs. 81/2008. Con pioggia, ghiaccio o vento forte i lavori si rimandano: le impermeabilizzazioni, in ogni caso, vanno posate su superfici asciutte.
+Ogni operatore è ancorato con due funi indipendenti, una di lavoro e una di sicurezza, ed è formato per questo tipo di accesso secondo il D.Lgs. 81/2008. I prodotti impermeabilizzanti vogliono superfici asciutte e temperature adeguate, quindi con pioggia, gelo o vento sostenuto il lavoro slitta al giorno utile successivo.
 
 ## Domande frequenti
 
-### Si può impermeabilizzare un tetto senza ponteggio?
-Per interventi puntuali sì, lavorando su fune. Per grandi superfici o rifacimenti integrali serve una valutazione caso per caso.
+### È possibile trattare una copertura senza ponteggio?
+Sì per le riparazioni mirate. Per superfici molto ampie o rifacimenti totali si ragiona caso per caso, dopo aver visto l'edificio.
 
-### Quanto dura il lavoro?
-Un intervento mirato spesso si chiude in una o due giornate, meteo permettendo. Dopo il sopralluogo ti indichiamo tempi realistici.
+### Quanti giorni servono?
+Un intervento circoscritto di norma si completa in uno o due giorni, se il tempo è buono. Dopo il sopralluogo ti diamo una stima realistica.
 
-### Servono permessi?
-Dipende dal Comune e dal tipo di lavoro. Sulle parti comuni di un condominio serve la delibera dell'assemblea. Ti aiutiamo a capire cosa occorre.
+### Occorrono autorizzazioni?
+Dipende dal Comune e dalla natura dell'opera. Per le parti condominiali serve la decisione dell'assemblea. Ti indichiamo cosa preparare.
 
-### Quanto costa?
-Dipende da superficie, stato del supporto e materiali. Il preventivo è scritto e con le voci spiegate una per una.
+### Come si determina il prezzo?
+Pesano metri quadri, condizione del fondo e materiali scelti. Il preventivo arriva per iscritto, con ogni voce descritta.
 
+## Parliamone
 
-## Richiedi un sopralluogo
-
-Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): valutiamo il lavoro, ti diciamo se la fune è la scelta giusta e ricevi un preventivo scritto, senza impegno.
+Racconta il problema dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): valutiamo se la fune è il metodo adatto e ti mandiamo un preventivo scritto, senza alcun impegno.

@@ -1,47 +1,46 @@
 ---
 layout: single
 title: "Ristrutturazione tetto"
-description: "Manutenzione e riparazione di coperture: tegole, guaine, converse e colmi, lavorando su fune dove il ponteggio non serve."
+description: "Interventi di riparazione e manutenzione sulle coperture, dalle tegole smosse alle guaine usurate, raggiunte dall'alto con tecniche su fune e senza ponteggio."
 ordine: 14
 in_home: false
 seo_title: "Riparazione e manutenzione tetto su fune: tegole, guaine e infiltrazioni"
-seo_description: "Riparazione di tegole, guaine, converse e colmi, con sopralluogo dall'alto e interventi mirati su fune, senza ponteggio. Sopralluogo gratuito."
+seo_description: "Tegole rotte, guaine consumate, converse e colmi da sistemare? Interveniamo sul punto preciso lavorando in fune, senza montare impalcature. Sopralluogo senza spese."
 ---
 
-I problemi del tetto si notano spesso solo quando l'acqua è già entrata in casa. Un controllo periodico costa molto meno di una riparazione d'emergenza dopo un temporale.
+Di solito un tetto in difficoltà si fa notare quando ormai piove in casa: una macchia sul soffitto, un angolo che sa di umido. Prevenire con una verifica periodica è quasi sempre più economico che rimediare dopo il primo temporale forte.
 
-Interveniamo su coperture per manutenzione e riparazioni mirate, raggiungendo il punto dall'alto su fune, senza ponteggio.
+Il nostro lavoro riguarda **riparazioni e manutenzioni localizzate** della copertura. Ci caliamo dall'alto fino al punto da sistemare, evitando di costruire un ponteggio che servirebbe solo a quel tratto.
 
-## Interventi principali
+## Cosa sistemiamo
 
-- **Sostituzione di tegole e coppi** rotti o spostati.
-- **Sistemazione di colmi, converse e scossaline**, dove nascono molte infiltrazioni.
-- **Rifacimento o ripristino della guaina** nei punti danneggiati.
-- **Pulizia e controllo di canali di gronda e scarichi**.
+- **Tegole e coppi** rotti, scivolati o mancanti, da rimettere o sostituire.
+- **Colmi, converse e scossaline**: sono i raccordi dove l'acqua trova più facilmente un varco.
+- **Guaina deteriorata**, ripristinata nei tratti dove si è aperta o sollevata.
+- **Canali di gronda e discendenti** ostruiti, liberati e controllati.
 
-## Come lavoriamo
+## Il percorso
 
-1. **Sopralluogo** dall'alto, con foto dei punti critici.
-2. **Preventivo** che distingue ciò che è urgente da ciò che può aspettare.
-3. **Intervento mirato** su fune.
-4. **Verifica finale** del punto trattato.
+1. **Ispezione dall'alto**, con foto dei punti che danno problemi.
+2. **Preventivo scritto**, che separa gli interventi urgenti da quelli rinviabili.
+3. **Lavoro mirato** eseguito su fune, solo dove serve.
+4. **Controllo finale** della zona trattata insieme a te.
 
-## Limiti
+## Dove la fune non basta
 
-La fune è ideale per **riparazioni localizzate**. Per il **rifacimento completo della copertura** o per lavorazioni con molto materiale da movimentare, il ponteggio resta di solito la scelta più adatta. Al sopralluogo ti diciamo qual è la strada migliore per il tuo caso, anche quando non è la nostra.
+La tecnica su fune dà il meglio con **interventi puntuali**. Se bisogna rifare **l'intera copertura**, o movimentare grandi quantità di materiale, di regola conviene un cantiere tradizionale con ponteggio. Lo diciamo chiaramente già al sopralluogo, anche quando la soluzione migliore non passa da noi.
 
 ## Domande frequenti
 
-### Si può riparare un tetto senza ponteggio?
-Sì, per interventi mirati come tegole, converse, colmi o un punto di infiltrazione.
+### Posso riparare il tetto senza ponteggio?
+Sì, se si tratta di tegole, converse, colmi o di un singolo punto da cui entra l'acqua.
 
-### E se serve rifare tutta la copertura?
-In quel caso valutiamo insieme: spesso conviene un'impresa con ponteggio, e te lo diciamo apertamente.
+### Cosa succede se il tetto va rifatto per intero?
+Valutiamo insieme la strada più sensata: in molti casi è meglio affidarsi a una ditta attrezzata con ponteggio, e te lo spieghiamo senza giri di parole.
 
-### Posso approfondire il tema delle infiltrazioni?
-Sì: leggi [Impermeabilizzazione tetti su fune: quando serve davvero]({{ '/tecnica/impermeabilizzazione-tetti-su-fune-quando-serve/' | relative_url }}).
+### Dove trovo più informazioni sulle infiltrazioni?
+Nell'articolo [Impermeabilizzazione tetti su fune: quando serve davvero]({{ '/tecnica/impermeabilizzazione-tetti-su-fune-quando-serve/' | relative_url }}).
 
+## Prenota un sopralluogo
 
-## Richiedi un sopralluogo
-
-Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): valutiamo il lavoro, ti diciamo se la fune è la scelta giusta e ricevi un preventivo scritto, senza impegno.
+Contattaci dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): analizziamo la situazione, ti indichiamo se la fune è l'approccio giusto e ricevi un preventivo scritto, senza alcun impegno.

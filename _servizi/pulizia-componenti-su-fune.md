@@ -1,63 +1,63 @@
 ---
 layout: single
 title: "Pulizia componenti su fune"
-description: "Pulizia su fune di facciate, insegne, rivestimenti e componenti in quota: niente ponteggio, edificio sempre accessibile. Sopralluogo gratuito."
+description: "Facciate, insegne, rivestimenti e parti tecniche in quota lavati da operatori in corda: nessuna impalcatura e nessun disagio per chi vive o lavora nell'edificio."
 ordine: 9
 in_home: true
 seo_title: "Pulizia su fune di facciate, insegne e componenti in quota"
-seo_description: "Pulizia su fune di facciate, rivestimenti, insegne, grondaie e componenti tecnici in quota, senza ponteggio e senza fermare l'edificio. Sopralluogo gratuito."
+seo_description: "Lavaggio in quota di facciate, rivestimenti, insegne, grondaie e componenti tecnici con operatori in fune, senza ponteggi e senza fermare l'edificio. Sopralluogo gratuito."
 ---
 
-Ci sono parti di un edificio che da terra non si raggiungono e che con una scala non si puliscono in sicurezza: facciate alte, rivestimenti, insegne, cornicioni, elementi tecnici sul tetto. La **pulizia su fune** permette di arrivarci senza montare un ponteggio e senza prendere in affitto una piattaforma, anche dove un mezzo non entra, per esempio in un cortile stretto o in un centro storico.
+Ci sono superfici che da terra non si toccano e che con una scala non si lavano in modo sicuro: pareti alte, rivestimenti, insegne, cornicioni, elementi tecnici sulla copertura. Il **lavaggio in corda** consente di arrivarci senza impalcature e senza noleggiare una piattaforma, anche dove un mezzo non entra, come un cortile stretto o una via del centro storico.
 
-## Cosa puliamo su fune
+## Cosa laviamo
 
-- **Facciate** in vetro, alluminio, pietra o intonaco, con rimozione di smog, polvere, alghe e muschio.
-- **Rivestimenti e facciate ventilate**, compresi pannelli e lamiere.
-- **Insegne, totem e cartellonistica** in quota.
-- **Grondaie, canali di gronda e cornicioni**: se ti serve anche la riparazione, guarda [Riparazione e pulizia grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}).
+- **Facciate** in vetro, alluminio, pietra o intonaco, eliminando smog, polvere, alghe e muschio.
+- **Rivestimenti e facciate ventilate**, pannelli e lamiere inclusi.
+- **Insegne, totem e cartelloni** posti in alto.
+- **Grondaie, canali e cornicioni**: se serve anche la riparazione, vedi [Riparazione e pulizia grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}).
 - **Grate, ringhiere e strutture metalliche** esterne.
-- **Componenti tecnici su tetti e coperture**, come lucernari, comignoli e canalizzazioni.
+- **Elementi tecnici di copertura**: lucernari, comignoli, canalizzazioni.
 
-Per le sole superfici vetrate trovi la pagina dedicata [Pulizia vetri]({{ '/servizi/pulizia-vetri/' | relative_url }}), mentre per l'impianto sul tetto c'è [Pulizia pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}).
+Per le sole vetrate c'è la pagina [Pulizia vetri]({{ '/servizi/pulizia-vetri/' | relative_url }}), mentre per l'impianto solare sul tetto vedi [Pulizia pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}).
 
-## Come lavoriamo
+## Il nostro modo di lavorare
 
-1. **Sopralluogo**: guardiamo il materiale, il tipo di sporco, i punti di ancoraggio e lo spazio sotto l'intervento.
-2. **Scelta del metodo**: non esiste un solo modo di pulire. L'alta pressione non è adatta a tutte le superfici, quindi dove serve usiamo acqua a bassa pressione, spazzole e prodotti compatibili con il materiale.
-3. **Pulizia dall'alto verso il basso**, così le parti già pulite non vengono bagnate dall'acqua sporca.
-4. **Controllo finale**: se vuoi, ti lasciamo anche le foto prima e dopo.
+1. **Sopralluogo**: materiale, tipo di sporco, punti di ancoraggio e spazio libero sotto l'area di lavoro.
+2. **Scelta del metodo**: non esiste un solo sistema di pulizia. L'alta pressione non va bene per tutte le superfici, quindi dove serve usiamo acqua a bassa pressione, spazzole e detergenti compatibili con il materiale.
+3. **Lavaggio dall'alto verso il basso**, in modo che l'acqua sporca non bagni le parti già pulite.
+4. **Verifica finale**, con foto prima e dopo se le desideri.
 
-## Perché su fune invece del ponteggio
+## Perché la corda e non il ponteggio
 
-Per una pulizia, il ponteggio costa soprattutto in montaggio, noleggio, smontaggio ed eventuale occupazione di suolo pubblico. Su fune questi costi non ci sono: **si risparmia sull'accesso, non sulla cura del lavoro**, che segue le stesse regole di qualità. L'edificio resta utilizzabile, perché delimitiamo solo la zona sotto l'intervento, e i tempi di preparazione sono molto più brevi.
+Per un semplice lavaggio, l'impalcatura costa soprattutto in montaggio, nolo, smontaggio ed eventuale occupazione di suolo pubblico. In corda questi costi non esistono: **si risparmia sull'accesso, non sulla cura**. L'edificio resta in uso, perché si delimita soltanto l'area sotto il lavoro, e la preparazione richiede molto meno tempo.
 
 ## Sicurezza e limiti
 
-Lavoriamo con il sistema a **doppia fune**, una di lavoro e una di sicurezza, ancorate in modo indipendente, e con personale formato per i sistemi di accesso e posizionamento mediante funi, come richiede il D.Lgs. 81/2008.
+Lavoriamo con **due funi indipendenti**, una di lavoro e una di sicurezza, e con personale formato per l'accesso e il posizionamento in fune come impone il D.Lgs. 81/2008.
 
-Ci sono anche dei limiti, e preferiamo dirli. Con pioggia forte, ghiaccio o vento forte l'intervento si rimanda. E quando il lavoro richiede molto materiale pesante o attrezzature ingombranti, un ponteggio o una piattaforma possono essere la scelta migliore: te lo diciamo al sopralluogo.
+I limiti vanno detti. Con pioggia intensa, gelo o vento forte si rimanda. E se il lavoro richiede molto materiale pesante o attrezzature ingombranti, un ponteggio o una piattaforma possono essere più adatti: lo valutiamo in sopralluogo.
 
 ## Domande frequenti
 
-### Serve il ponteggio per pulire una facciata?
-Per la sola pulizia, nella maggior parte dei casi no. Lo verifichiamo al sopralluogo, in base all'altezza, al materiale e agli spazi.
+### Per lavare una facciata serve il ponteggio?
+Per la sola pulizia quasi mai. Lo verifichiamo sul posto, in base ad altezza, materiale e spazi.
 
-### Quanto costa la pulizia su fune?
-Dipende da superficie, altezza, materiale e stato di sporco. Dopo il sopralluogo ricevi un preventivo con le voci spiegate una per una.
+### Quanto si spende?
+Dipende da superficie, altezza, materiale e livello di sporco. Dopo il sopralluogo ricevi un preventivo con ogni voce descritta.
 
-### L'edificio resta accessibile durante i lavori?
-Sì. Delimitiamo solo la zona sotto l'intervento, quindi condomini e attività possono continuare a usare l'edificio.
+### Durante i lavori l'edificio resta agibile?
+Sì. Si isola solo la zona sotto l'intervento, quindi condomini e attività continuano a usarlo.
 
-### Si rischia di rovinare le superfici?
-Scegliamo il metodo in base al materiale. Dove la pressione alta può danneggiare, usiamo acqua a bassa pressione e prodotti adatti.
+### Si rischiano danni alle superfici?
+Il metodo cambia con il materiale. Dove l'alta pressione può rovinare, usiamo acqua a bassa pressione e prodotti adatti.
 
-### Ogni quanto conviene pulire?
-Dipende dall'esposizione: in città con smog e polveri sottili le facciate si sporcano prima. Dopo il sopralluogo ti indichiamo un intervallo ragionevole.
+### Ogni quanto conviene intervenire?
+Dipende dall'esposizione: in città, con smog e polveri sottili, le facciate si sporcano prima. Dopo la visita ti indichiamo un intervallo ragionevole.
 
-### Pulite anche insegne e cartelloni?
-Sì, anche quando sono in posizioni dove una scala o un camion con cestello non arrivano.
+### Lavate anche insegne e cartelloni?
+Sì, anche quando sono dove scale e cestelli non arrivano.
 
-## Richiedi un sopralluogo
+## Prenota il sopralluogo
 
-Hai una facciata, un'insegna o un componente in quota da pulire? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): valutiamo l'intervento e ti diciamo tempi e costi reali, senza sorprese.
+Hai una facciata, un'insegna o un componente in alto da pulire? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): valutiamo il lavoro e ti diciamo tempi e costi reali, senza sorprese.

@@ -1,64 +1,64 @@
 ---
 layout: single
 title: "Canne fumarie"
-description: "Ispezione, pulizia, riparazione e installazione di canne fumarie e comignoli, lavorando dall'alto su fune."
+description: "Controllo, spazzolatura, riparazione e montaggio di canne fumarie e comignoli, con operatori che raggiungono il terminale dall'alto, appesi a una fune."
 ordine: 4
 in_home: true
 seo_title: "Pulizia e installazione canne fumarie e comignoli su fune"
-seo_description: "Ispezione, pulizia, riparazione e installazione di canne fumarie e comignoli lavorando dall'alto su fune, senza ponteggio. Sopralluogo gratuito."
+seo_description: "Canne fumarie e comignoli ispezionati, puliti, riparati o installati da operatori in fune, senza impalcature e senza piattaforme. Sopralluogo e preventivo gratuiti."
 ---
 
-Una canna fumaria sporca, ostruita o danneggiata non è solo un problema di tiraggio: la fuliggine accumulata può prendere fuoco e i fumi che non escono correttamente rientrano in casa. Per stufe, camini e caldaie la **manutenzione della canna fumaria** è una questione di sicurezza, prima ancora che di comfort.
+Quando una canna fumaria si riempie di residui o si danneggia, il tiraggio è solo il primo sintomo. La fuliggine depositata può incendiarsi e i fumi che non trovano via d'uscita tornano negli ambienti. Per camini, stufe e caldaie la **cura della canna fumaria** è prima di tutto una questione di sicurezza, il comfort viene dopo.
 
-Noi interveniamo dall'alto, **su fune**: raggiungiamo il comignolo e la parte esterna della canna senza montare un ponteggio e senza affittare una piattaforma, anche su tetti inclinati, edifici alti o in centro storico.
+Noi lavoriamo **dal tetto verso il basso, in corda**: arriviamo al comignolo e al tratto esterno senza montare impalcature e senza noleggiare mezzi, anche con falde ripide, palazzi alti o edifici dei centri storici.
 
-## Cosa facciamo
+## Le nostre prestazioni
 
-- **Ispezione** della canna e del comignolo, con controllo di crepe, giunti e cappello.
-- **Pulizia** dall'alto con attrezzatura adatta al tipo di canna e al combustibile.
-- **Riparazione** di comignoli, cappelli e rivestimenti rovinati.
-- **Sostituzione del comignolo** o del terminale, quando serve.
-- **Installazione di nuove canne fumarie** esterne in acciaio, anche lungo la facciata.
-- **Sigillature** dei punti di passaggio sul tetto, per evitare infiltrazioni d'acqua.
+- **Ispezione** di canna e comignolo: ricerca di crepe, giunti aperti e danni al cappello.
+- **Spazzolatura dall'alto**, con strumenti scelti in base al tipo di canna e al combustibile.
+- **Ripristino** di comignoli, cappelli e finiture deteriorate.
+- **Cambio del terminale** o dell'intero comignolo quando serve.
+- **Montaggio di canne nuove** in acciaio, comprese quelle che corrono lungo la facciata.
+- **Sigillatura dei passaggi in copertura**, per impedire l'ingresso dell'acqua.
 
-## Ogni quanto va pulita
+## Con che cadenza pulirla
 
-Dipende da cosa si brucia e da quanto si usa l'impianto. Legna e pellet lasciano più residui di gas o gasolio, e una stufa usata ogni giorno richiede più controlli di un camino acceso poche volte l'anno. Come riferimento, la pulizia si fa **almeno una volta l'anno**, prima dell'inverno. Le norme tecniche di riferimento sono la UNI 10847 per la manutenzione degli impianti fumari e, per gli apparecchi a biomassa, la UNI 10683; il tecnico dell'impianto ti indica la periodicità adatta.
+Dipende da cosa si brucia e da quanto si usa. Legna e pellet lasciano più depositi del gas o del gasolio, e una stufa accesa ogni giorno va controllata più spesso di un camino usato poche volte. Come regola generale, l'intervento si fa **una volta l'anno**, prima che inizi la stagione fredda. I riferimenti tecnici sono la UNI 10847 per la manutenzione degli impianti fumari e la UNI 10683 per gli apparecchi a biomassa: il tecnico che segue l'impianto indica la frequenza più adatta.
 
-## Come lavoriamo
+## Come procediamo
 
-1. **Sopralluogo**: guardiamo il tipo di canna, il tetto, l'accesso e il materiale da pulire.
-2. **Preventivo chiaro**, con ispezione, pulizia ed eventuali riparazioni indicate a parte.
-3. **Intervento su fune** dall'alto, con doppia fune di lavoro e di sicurezza.
-4. **Controllo finale** del passaggio libero e, se vuoi, foto del comignolo prima e dopo.
+1. **Visita preliminare**: tipo di canna, copertura, punti di accesso e quantità di residui.
+2. **Preventivo ordinato**, con ispezione, pulizia ed eventuali riparazioni in voci distinte.
+3. **Discesa in fune** con doppio ancoraggio, uno di lavoro e uno di sicurezza.
+4. **Prova del passaggio libero** e, se desideri, foto del comignolo prima e dopo.
 
-Per le nuove installazioni, il montaggio va fatto a regola d'arte e accompagnato dalla dichiarazione di conformità prevista dal D.M. 37/2008: ti spieghiamo cosa serve e con quale tecnico abilitato lavorare.
+Per le installazioni nuove il montaggio va eseguito a regola d'arte e corredato dalla dichiarazione di conformità prevista dal D.M. 37/2008: ti spieghiamo cosa occorre e con quale tecnico abilitato collaborare.
 
-## Perché su fune invece del ponteggio
+## Perché evitare il ponteggio
 
-Per ispezionare o pulire un comignolo, il ponteggio è un costo sproporzionato: montaggio, noleggio, smontaggio e, spesso, permessi per l'occupazione del suolo. Su fune **si risparmia sull'accesso, non sulla cura del lavoro**, e in molti casi l'intervento si chiude in poche ore.
+Per guardare o spazzolare un comignolo, un'impalcatura è una spesa fuori misura: montaggio, nolo, smontaggio e a volte anche l'occupazione di suolo. In corda **si risparmia sull'accesso, non sulla cura**, e molti lavori si concludono in poche ore.
 
 ## Sicurezza e limiti
 
-Lavoriamo con personale formato per i sistemi di accesso e posizionamento mediante funi, come previsto dal D.Lgs. 81/2008. Con pioggia, ghiaccio o vento forte si rimanda. Per rifacimenti importanti di impianti complessi, al sopralluogo ti diciamo con onestà se conviene affiancare un ponteggio.
+Il personale è formato per l'accesso e il posizionamento in fune come richiede il D.Lgs. 81/2008. Se piove forte, gela o tira vento si posticipa. Nei rifacimenti importanti di impianti complessi, durante il sopralluogo ti diciamo con franchezza se è meglio abbinare un ponteggio.
 
 ## Domande frequenti
 
-### Quanto costa pulire una canna fumaria?
-Dipende da altezza, accessibilità, tipo di canna e stato di sporco. Dopo il sopralluogo ricevi un preventivo con le voci spiegate.
+### Quanto si spende per pulire una canna?
+Incidono altezza, accessibilità, tipologia e quantità di sporco. Dopo la visita ricevi un preventivo con ogni voce spiegata.
 
-### Fate anche l'installazione di una canna nuova?
-Sì, in acciaio, lungo la facciata o in copertura. Per la dichiarazione di conformità ti indichiamo come procedere con un installatore abilitato.
+### Installate anche canne nuove?
+Sì, in acciaio, su facciata o in copertura. Per la dichiarazione di conformità ti indichiamo come muoverti con un installatore abilitato.
 
-### Serve il ponteggio per riparare un comignolo?
-Nella maggior parte dei casi no: si lavora dall'alto su fune.
+### Per riparare un comignolo serve il ponteggio?
+Quasi sempre no: si lavora dall'alto, in fune.
 
-### Come capisco che la canna va pulita?
-Tiraggio debole, fumo che rientra, odore di bruciato, fuliggine che cade nella stufa: sono tutti segnali da non trascurare.
+### Come si capisce che è ora di pulire?
+Tiraggio fiacco, fumo che torna indietro, odore di bruciato, fuliggine che cade nella stufa: segnali da prendere sul serio.
 
-### Intervenite d'urgenza?
-Dopo un principio di incendio in canna o un danno da maltempo, contattaci subito: valutiamo l'intervento il prima possibile.
+### Fate interventi urgenti?
+Sì, dopo un principio d'incendio in canna o un danno da maltempo scrivici subito: valutiamo l'uscita nel più breve tempo possibile.
 
-## Richiedi un sopralluogo
+## Scrivici
 
-Hai una canna da pulire, un comignolo da riparare o un nuovo impianto da installare? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): sopralluogo e preventivo sono gratuiti. Se il tetto ha anche infiltrazioni guarda [Impermeabilizzazione su fune]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}).
+Hai una canna da pulire, un comignolo da sistemare o un impianto da montare? Passa dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): sopralluogo e preventivo sono gratuiti. Se la copertura ha anche problemi di infiltrazioni, consulta [Impermeabilizzazione su fune]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}).

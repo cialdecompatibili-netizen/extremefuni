@@ -1,64 +1,64 @@
 ---
 layout: single
 title: "Pulizia pannelli fotovoltaici"
-description: "Pulizia di pannelli fotovoltaici su coperture alte, inclinate o difficili da raggiungere, operando su fune."
+description: "Moduli solari lavati da operatori in corda su tetti alti, ripidi o poco sicuri da percorrere, senza impalcature e senza calpestare i pannelli."
 ordine: 10
 in_home: true
 seo_title: "Pulizia pannelli fotovoltaici su fune: tetti alti e inclinati"
-seo_description: "Pulizia di pannelli fotovoltaici su coperture alte, inclinate o difficili da raggiungere, operando su fune. Niente ponteggio, sopralluogo gratuito."
+seo_description: "Lavaggio di pannelli fotovoltaici su coperture alte, inclinate o difficili da raggiungere, eseguito da operatori in fune. Nessun ponteggio, sopralluogo gratuito."
 ---
 
-Polvere, smog, pollini, escrementi di uccelli e residui di pioggia si depositano sui moduli e ne riducono la resa. In alcuni impianti lo sporco è così evidente da vedersi a occhio nudo; in altri è più subdolo e si nota solo guardando la produzione. La **pulizia dei pannelli fotovoltaici su fune** permette di intervenire anche dove salire sul tetto non è sicuro: coperture alte, molto inclinate, con lucernari o senza linea vita.
+Polvere, smog, pollini, guano e residui di pioggia si posano sui moduli e ne abbassano il rendimento. In certi impianti lo strato di sporco si vede a occhio nudo, in altri è più insidioso e lo scopri solo confrontando la produzione. Il **lavaggio dei pannelli in corda** permette di intervenire anche dove camminare sul tetto non è sicuro: coperture alte, molto pendenti, con lucernari o prive di linea vita.
 
-## Cosa facciamo
+## Le attività
 
-- **Pulizia dei moduli** con acqua e attrezzi non abrasivi, senza graffiare il vetro.
-- **Rimozione di sporco ostinato**: guano, resina, licheni e muschio.
-- **Pulizia di cornici e profili**, dove si accumulano residui che poi colano sul vetro.
-- **Controllo visivo dell'impianto**: moduli incrinati, cablaggi scollegati, ombreggiamenti causati da vegetazione o oggetti.
-- **Foto prima e dopo**, utili per la documentazione e per confrontare la produzione.
+- **Lavaggio dei moduli** con acqua e strumenti non abrasivi, senza segnare il vetro.
+- **Eliminazione dello sporco tenace**: guano, resine, licheni e muschio.
+- **Pulizia di telai e profili**, dove i residui si accumulano e poi colano sul vetro.
+- **Controllo a vista dell'impianto**: moduli incrinati, cavi scollegati, ombre prodotte da piante o oggetti.
+- **Foto prima e dopo**, utili come documentazione e per confrontare la produzione.
 
-## Quando conviene pulire
+## Quando vale la pena
 
-- Impianti vicini a strade trafficate, campagne, alberi o zone con molti uccelli.
-- Tetti poco inclinati, dove lo sporco non viene lavato via dalla pioggia.
-- Dopo lavori edili, tempeste di sabbia o periodi di pollini intensi.
-- Se noti un calo di produzione rispetto agli anni precedenti, a parità di condizioni.
+- Impianti vicini a strade trafficate, campagne, alberi o zone frequentate da molti uccelli.
+- Tetti con poca pendenza, dove la pioggia non porta via lo sporco.
+- Dopo cantieri, sabbia trasportata dal vento o stagioni di pollini intensi.
+- Quando la produzione cala rispetto agli anni passati, a parità di condizioni meteo.
 
-Quanto incide lo sporco sulla resa cambia molto da impianto a impianto: prima di spendere, confronta la produzione con quella degli anni scorsi e chiedi un parere. Al sopralluogo ti diciamo con onestà se la pulizia vale il costo.
+L'effetto dello sporco sulla resa varia molto da impianto a impianto: prima di spendere, confronta la produzione con quella degli anni scorsi e chiedi un parere. In sopralluogo ti diciamo con franchezza se il lavaggio vale la spesa.
 
-## Come lavoriamo
+## Le fasi
 
-1. **Sopralluogo**: guardiamo l'impianto, la copertura, i punti di ancoraggio e lo spazio sotto.
-2. **Scelta del metodo**: acqua a bassa pressione, spazzole morbide e, se serve, detergenti neutri compatibili con il vetro.
-3. **Pulizia con impianto fermo e al riparo dal sole diretto**, nelle ore fresche, per evitare shock termici e aloni.
+1. **Sopralluogo**: impianto, copertura, punti di ancoraggio e spazio sottostante.
+2. **Scelta del metodo**: acqua a bassa pressione, spazzole morbide e, se necessario, detergenti neutri adatti al vetro.
+3. **Lavaggio a impianto fermo e senza sole diretto**, nelle ore fresche, per evitare shock termici e aloni.
 4. **Controllo finale** e consegna delle foto.
 
-## Perché su fune invece del ponteggio o della piattaforma
+## Perché la corda e non ponteggio o piattaforma
 
-Per pulire i pannelli, il costo di un ponteggio o di una piattaforma può superare quello del lavoro stesso. Su fune **si risparmia sull'accesso**, si evita di camminare sui moduli (che possono rompersi sotto il peso) e si lavora anche su tetti dove salire è pericoloso.
+Per lavare dei pannelli, un ponteggio o una piattaforma possono costare più del lavoro. In corda **si taglia la spesa d'accesso**, non si cammina sui moduli, che sotto il peso possono rompersi, e si lavora anche su tetti dove salire è rischioso.
 
 ## Sicurezza e limiti
 
-Lavoriamo con doppia fune di lavoro e di sicurezza e personale formato per i lavori su fune, nel rispetto del D.Lgs. 81/2008. Non puliamo con pioggia, ghiaccio o moduli molto caldi per il sole. Per impianti molto estesi, come grandi campi a terra, il lavaggio con mezzi dedicati può essere più adatto: te lo diciamo prima.
+Usiamo due funi indipendenti, una di lavoro e una di sicurezza, con personale formato al lavoro in fune ai sensi del D.Lgs. 81/2008. Non laviamo con pioggia, gelo o moduli surriscaldati dal sole. Per impianti molto grandi, come i campi a terra, un lavaggio con mezzi dedicati può essere più adatto, e ti avvisiamo prima.
 
 ## Domande frequenti
 
-### Ogni quanto vanno puliti i pannelli?
-Dipende da posizione e inclinazione. Come riferimento, una o due volte l'anno; meno dove la pioggia lava bene i moduli, di più vicino a fonti di sporco.
+### Con che frequenza vanno puliti?
+Dipende da posizione e inclinazione. Come indicazione, una o due volte l'anno: meno dove la pioggia lava bene, di più vicino a fonti di sporco.
 
-### Si rovinano i pannelli?
-Usiamo attrezzi non abrasivi e acqua adatta, senza pressione eccessiva. Non saliamo mai sui moduli.
+### I moduli rischiano di rovinarsi?
+No: impieghiamo strumenti non abrasivi e acqua adatta, senza pressioni eccessive, e non saliamo mai sui pannelli.
 
-### Quanto costa pulire un impianto fotovoltaico?
-Dipende da numero di moduli, altezza e accessibilità. Dopo il sopralluogo ricevi un preventivo con le voci spiegate.
+### Quanto costa pulire un impianto?
+Dipende da numero di moduli, altezza e accessibilità. Dopo la visita ricevi un preventivo con le voci chiare.
 
-### Serve spegnere l'impianto?
-Di norma si lavora con impianto fermo o a bassa produzione. Ti indichiamo come procedere al sopralluogo.
+### Bisogna spegnere l'impianto?
+Di solito si lavora a impianto fermo o con bassa produzione. In sopralluogo ti spieghiamo come procedere.
 
-### Si può fare in condominio?
+### È possibile in condominio?
 Sì. Possiamo lasciare foto e dettaglio dei lavori da allegare al verbale.
 
-## Richiedi un sopralluogo
+## Contattaci
 
-Hai un impianto su un tetto difficile da raggiungere? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): valutiamo e ti diciamo se la pulizia conviene davvero. Per vetrate e facciate guarda [Pulizia vetri in altezza]({{ '/servizi/pulizia-vetri/' | relative_url }}).
+Hai un impianto su un tetto difficile da raggiungere? Scrivi dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): valutiamo e ti diciamo se il lavaggio conviene davvero. Per vetrate e facciate vedi [Pulizia vetri in altezza]({{ '/servizi/pulizia-vetri/' | relative_url }}).

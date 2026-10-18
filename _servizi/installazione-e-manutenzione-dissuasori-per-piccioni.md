@@ -1,68 +1,68 @@
 ---
 layout: single
 title: "Dissuasori per piccioni"
-description: "Installazione e manutenzione di dissuasori anti-volatili su cornicioni, balconi e tetti, senza ponteggi."
+description: "Montaggio e controllo di sistemi anti-volatili su cornicioni, davanzali, balconi e coperture, eseguiti da operatori in corda senza alcuna impalcatura."
 ordine: 5
 in_home: true
 seo_title: "Dissuasori per piccioni: installazione su fune, senza ponteggi"
-seo_description: "Installazione e manutenzione di dissuasori anti-piccione su cornicioni, balconi, tetti e facciate lavorando su fune, anche in condominio. Sopralluogo gratuito."
+seo_description: "Dissuasori anti-piccione montati e mantenuti su cornicioni, balconi, tetti e facciate da operatori in fune, anche per i condomini. Sopralluogo senza costi."
 ---
 
-I piccioni sui cornicioni, sui balconi e sotto i tetti non sono solo un fastidio: lo **sporco dei loro escrementi** rovina intonaci, grondaie e davanzali, occlude i pluviali e può creare problemi igienici. Una volta che trovano un posto dove stare, tornano sempre, e pulire senza prevenire serve a poco.
+Una colonia di piccioni su un cornicione non è soltanto fastidiosa. Il guano è acido, macchia e consuma intonaci, marmi e davanzali, ostruisce i pluviali e porta con sé questioni igieniche. E dove trovano riparo una volta, tornano: ripulire senza impedire il ritorno significa rifare tutto dopo poche settimane.
 
-Con l'installazione di **dissuasori su fune** raggiungiamo cornicioni, frontalini e sporgenze alte senza montare un ponteggio, in poco tempo e con meno disagi per chi abita l'edificio.
+La soluzione stabile è non lasciare appigli. Con i **dissuasori montati in corda** arriviamo a cornicioni, frontalini e sporgenze in alto senza impalcature, in poco tempo e senza togliere a chi abita l'edificio l'uso di finestre e balconi.
 
 ## Cosa facciamo
 
-- **Pulizia preliminare** delle zone sporche, perché i dissuasori vanno montati su superfici pulite.
-- **Installazione di dissuasori** su cornicioni, davanzali, frontalini, balconi, tettoie e insegne.
-- **Reti e protezioni** per sottotetti, nicchie e vani dove i volatili nidificano.
-- **Manutenzione e sostituzione** di dissuasori vecchi, deformati o staccati.
-- **Rimozione di nidi** quando consentito e fuori dai periodi di tutela.
+- **Ripulitura preliminare**: i sistemi aderiscono e funzionano solo su superfici libere da residui.
+- **Posa di dissuasori** su cornicioni, davanzali, frontalini, balconi, pensiline e insegne.
+- **Reti e chiusure** per sottotetti, nicchie e vani dove i volatili costruiscono i nidi.
+- **Revisione e sostituzione** di dissuasori vecchi, piegati o staccati.
+- **Asportazione dei nidi**, dove la legge lo permette e fuori dai periodi di tutela.
 
-## Quale sistema scegliere
+## Come scegliere il sistema
 
-Non esiste una soluzione unica: dipende dalla forma della superficie, dal materiale e dall'estetica dell'edificio. I sistemi più usati sono:
+Una formula valida per tutti non esiste: contano forma della superficie, materiale ed estetica dell'edificio. Le soluzioni più diffuse sono:
 
-- **dissuasori a punte** in acciaio o plastica, per cornicioni e davanzali;
-- **cavi tesi o fili** per sporgenze lunghe e sottili;
-- **reti** per chiudere sottotetti e nicchie;
-- **sistemi a mensole inclinate** dove le punte non sono adatte.
+- **barre a punte** in acciaio o plastica, adatte a cornicioni e davanzali;
+- **cavi o fili tesi** per bordi lunghi e sottili;
+- **reti** per chiudere sottotetti e incavi;
+- **profili inclinati** dove le punte non sono indicate.
 
-Usiamo sistemi che **non fanno del male agli animali**: lo scopo è tenerli lontani, non ferirli. Al sopralluogo ti consigliamo il sistema che regge meglio nel tempo su quel tipo di edificio.
+Montiamo soltanto sistemi **che allontanano senza ferire**: l'obiettivo è tenere gli animali lontani, non fargli del male. In sopralluogo proponiamo quello che resiste meglio nel tempo sul tuo tipo di fabbricato.
 
-## Come lavoriamo
+## Il nostro percorso
 
-1. **Sopralluogo**: guardiamo dove si posano i volatili, il tipo di superficie e quanto è esposta.
-2. **Proposta e preventivo**, con sistema consigliato e metri lineari da trattare.
-3. **Pulizia e installazione su fune**, con doppia fune di lavoro e di sicurezza.
-4. **Controllo finale** e consigli per la manutenzione.
+1. **Ispezione**: dove si posano gli uccelli, che superficie trovano e quanto è esposta.
+2. **Proposta e prezzo**, con il sistema consigliato e i metri lineari da coprire.
+3. **Pulizia e posa in fune**, con due funi indipendenti di lavoro e sicurezza.
+4. **Controllo finale** e indicazioni per mantenere il risultato.
 
-## Perché su fune invece del ponteggio
+## Perché la corda e non l'impalcatura
 
-Per montare dissuasori su cornicioni alti, il ponteggio pesa più del lavoro: montaggio, noleggio e permessi. Su fune **l'accesso costa poco**, l'intervento è rapido e il condominio non perde l'uso di balconi e finestre durante i lavori.
+Sui cornicioni alti il ponteggio pesa più del lavoro stesso: montaggio, nolo e pratiche. In corda **l'accesso costa poco**, il cantiere è rapido e il condominio non perde l'uso di balconi e finestre.
 
-## Sicurezza e limiti
+## Sicurezza e franchezza sui limiti
 
-Lavoriamo con personale formato per i lavori su fune, come previsto dal D.Lgs. 81/2008. Con pioggia, ghiaccio o vento forte si rimanda. Nessun dissuasore è garantito al 100% contro ogni volatile: se i piccioni hanno trovato una fonte di cibo vicina (per esempio persone che li nutrono), i risultati possono essere meno duraturi, e te lo diciamo prima di iniziare.
+Il personale è formato al lavoro in fune come prevede il D.Lgs. 81/2008. Pioggia, ghiaccio e vento forte fanno rinviare l'intervento. Nessun dissuasore garantisce il cento per cento: se nelle vicinanze c'è una fonte di cibo stabile, per esempio qualcuno che li nutre, l'effetto dura meno, e te lo diciamo prima di cominciare.
 
 ## Domande frequenti
 
-### Quanto costano i dissuasori per piccioni?
-Dipende da metri lineari, altezza, sistema scelto e stato di sporco. Dopo il sopralluogo ricevi un preventivo con le voci spiegate.
+### Quanto si paga per i dissuasori?
+Dipende da metri lineari, altezza, sistema e grado di sporco. Dopo la visita ricevi un preventivo con le voci descritte.
 
-### Funzionano davvero?
-Se scelti e montati bene sì, ma richiedono controlli periodici. Per questo offriamo anche la manutenzione.
+### Sono davvero efficaci?
+Se ben scelti e ben montati sì, ma vanno controllati nel tempo. Per questo proponiamo anche un servizio di manutenzione.
 
-### Posso farlo in condominio?
-Sì. Serve di norma la delibera dell'assemblea per interventi sulle parti comuni: ti aiutiamo con preventivo e documentazione per l'amministratore.
+### E in condominio?
+Si può. Per le parti comuni di solito serve la delibera dell'assemblea: ti aiutiamo con preventivo e documenti per l'amministratore.
 
-### Fate anche la pulizia del guano?
-Sì, la pulizia delle zone sporche precede sempre l'installazione.
+### Pulite anche il guano?
+Sì, la pulizia delle zone sporche viene sempre prima della posa.
 
-### I dissuasori si vedono dalla strada?
-Dipende dal sistema. Per edifici di pregio scegliamo soluzioni più discrete.
+### Si vedono dalla strada?
+Dipende dal sistema. Per gli edifici di pregio scegliamo soluzioni più discrete.
 
-## Richiedi un sopralluogo
+## Contattaci
 
-Hai piccioni su cornicioni o balconi? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): ti proponiamo il sistema più adatto e un preventivo chiaro. Se lo sporco ha già intasato i pluviali guarda anche [Riparazione e pulizia grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}).
+Hai piccioni su cornicioni o balconi? Scrivi dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): ti proponiamo il sistema giusto e un preventivo chiaro. Se lo sporco ha già intasato i pluviali, dai un'occhiata anche a [Riparazione e pulizia grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}).

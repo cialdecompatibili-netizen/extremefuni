@@ -4,7 +4,7 @@ title: "Installazione, manutenzione dissuasori per piccioni"
 description: "Installazione e manutenzione di dissuasori per piccioni su cornicioni, balconi e facciate, anche in condominio. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
 ordine: 5
 in_home: true
-seo_title: "Installazione e manutenzione dissuasori per piccioni | Su fune, senza ponteggi"
+seo_title: "Installazione, manutenzione dissuasori per piccioni"
 seo_description: "Installazione e manutenzione di dissuasori per piccioni su cornicioni, balconi e facciate, anche in condominio. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Pulizia vetri"
-description: "Pulizia di vetrate, facciate continue e finestre in quota per condomini, uffici e negozi, senza fermare l'edificio. Lavoro su fune senza piattaforma. Sopralluogo gratuito."
+description: "Pulizia di vetrate, facciate continue e finestre in quota per condomini, uffici e negozi, senza fermare l'edificio. Su fune, senza piattaforma. Sopralluogo gratuito."
 ordine: 11
 in_home: true
-seo_title: "Pulizia vetri | Su fune, senza piattaforme"
-seo_description: "Pulizia di vetrate, facciate continue e finestre in quota per condomini, uffici e negozi, senza fermare l'edificio. Lavoro su fune senza piattaforma. Sopralluogo gratuito."
+seo_title: "Pulizia vetri"
+seo_description: "Pulizia di vetrate, facciate continue e finestre in quota per condomini, uffici e negozi, senza fermare l'edificio. Su fune, senza piattaforma. Sopralluogo gratuito."
 ---
 
 Le vetrate in quota si sporcano di smog, polvere, pioggia e calcare, e da terra o con una scala non si puliscono bene né in sicurezza. La **pulizia vetri su fune** permette di lavare facciate vetrate, finestre alte, lucernari e infissi calandosi dall'alto, senza noleggiare una piattaforma e senza montare un ponteggio.

@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Canne fumarie"
-description: "Pulizia, manutenzione, riparazione e installazione di canne fumarie e comignoli, anche su tetti ripidi e palazzi alti. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
+description: "Canna fumaria sporca o danneggiata? Pulizia, manutenzione e installazione di canne fumarie e comignoli. Su fune, senza ponteggio. Sopralluogo gratuito."
 ordine: 4
 in_home: true
-seo_title: "Pulizia, manutenzione e installazione canne fumarie | Su fune, senza ponteggi"
-seo_description: "Pulizia, manutenzione, riparazione e installazione di canne fumarie e comignoli, anche su tetti ripidi e palazzi alti. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
+seo_title: "Canne fumarie"
+seo_description: "Canna fumaria sporca o danneggiata? Pulizia, manutenzione e installazione di canne fumarie e comignoli. Su fune, senza ponteggio. Sopralluogo gratuito."
 ---
 
 Quando una canna fumaria si riempie di residui o si danneggia, il tiraggio è solo il primo sintomo. La fuliggine depositata può incendiarsi e i fumi che non trovano via d'uscita tornano negli ambienti. Per camini, stufe e caldaie la **cura della canna fumaria** è prima di tutto una questione di sicurezza, il comfort viene dopo.

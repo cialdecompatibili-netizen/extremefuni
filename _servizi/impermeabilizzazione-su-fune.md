@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Impermeabilizzazione su fune"
-description: "Impermeabilizzazione di terrazzi, balconi, cornicioni e coperture contro infiltrazioni e umidità, anche in condominio. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
+description: "Infiltrazioni d'acqua o umidità in casa e condominio? Impermeabilizziamo terrazzi, balconi, cornicioni e tetti su fune, senza ponteggio. Sopralluogo gratuito."
 ordine: 1
 in_home: true
-seo_title: "Impermeabilizzazione su fune | Senza ponteggi"
-seo_description: "Impermeabilizzazione di terrazzi, balconi, cornicioni e coperture contro infiltrazioni e umidità, anche in condominio. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
+seo_title: "Impermeabilizzazione su fune"
+seo_description: "Infiltrazioni d'acqua o umidità in casa e condominio? Impermeabilizziamo terrazzi, balconi, cornicioni e tetti su fune, senza ponteggio. Sopralluogo gratuito."
 ---
 
 Un'infiltrazione trascurata non resta mai ferma. L'acqua si fa strada nel calcestruzzo, raggiunge i ferri, li fa arrugginire e li gonfia fino a staccare il copriferro. Quella che era una macchia sul soffitto diventa un cantiere di ripristino strutturale, con costi che nessuno aveva messo in conto.

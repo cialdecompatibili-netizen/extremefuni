@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Ristrutturazione tetto"
-description: "Riparazione e manutenzione di tetti: tegole, guaine, converse e colmi, per fermare le infiltrazioni. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
+description: "Tegole rotte, infiltrazioni o guaine consumate? Riparazione e manutenzione di tetti e coperture, su fune e senza ponteggio. Sopralluogo gratuito."
 ordine: 14
 in_home: false
-seo_title: "Ristrutturazione tetto | Su fune, senza ponteggi"
-seo_description: "Riparazione e manutenzione di tetti: tegole, guaine, converse e colmi, per fermare le infiltrazioni. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
+seo_title: "Ristrutturazione tetto"
+seo_description: "Tegole rotte, infiltrazioni o guaine consumate? Riparazione e manutenzione di tetti e coperture, su fune e senza ponteggio. Sopralluogo gratuito."
 ---
 
 Di solito un tetto in difficoltà si fa notare quando ormai piove in casa: una macchia sul soffitto, un angolo che sa di umido. Prevenire con una verifica periodica è quasi sempre più economico che rimediare dopo il primo temporale forte.

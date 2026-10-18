@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Sistemi di sicurezza su fune"
-description: "Montaggio di linee vita, ancoraggi e sistemi anticaduta su tetti e facciate, con documentazione tecnica a fine lavoro. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
+description: "Linee vita, ancoraggi e sistemi anticaduta su tetti e facciate, con documentazione tecnica. Montaggio su fune senza ponteggio. Sopralluogo gratuito."
 ordine: 6
 in_home: true
-seo_title: "Montaggio sistemi di sicurezza su fune | Senza ponteggi"
-seo_description: "Montaggio di linee vita, ancoraggi e sistemi anticaduta su tetti e facciate, con documentazione tecnica a fine lavoro. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
+seo_title: "Sistemi di sicurezza su fune"
+seo_description: "Linee vita, ancoraggi e sistemi anticaduta su tetti e facciate, con documentazione tecnica. Montaggio su fune senza ponteggio. Sopralluogo gratuito."
 ---
 
 Chiunque debba salire su un tetto, per riparare, pulire o ispezionare, ha bisogno di un punto sicuro a cui agganciarsi. Una **linea vita** o una rete di **ancoraggi anticaduta** consente a manutentori e tecnici di lavorare in copertura al riparo da cadute, oggi e nei prossimi anni. Per le nuove costruzioni e per molte ristrutturazioni questi dispositivi sono anche richiesti dai regolamenti regionali.

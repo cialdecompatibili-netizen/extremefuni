@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Tinteggiature complete su fune"
-description: "Tinteggiatura di facciate e muri esterni di condomini e attività, con preparazione del fondo e finitura curata. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
+description: "Tinteggiatura di facciate e muri esterni di condomini, case e attività, a qualsiasi altezza e senza ponteggio. Fondo e finitura curati. Sopralluogo gratuito."
 ordine: 13
 in_home: false
-seo_title: "Tinteggiature complete su fune | Senza ponteggi"
-seo_description: "Tinteggiatura di facciate e muri esterni di condomini e attività, con preparazione del fondo e finitura curata. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
+seo_title: "Tinteggiature complete su fune"
+seo_description: "Tinteggiatura di facciate e muri esterni di condomini, case e attività, a qualsiasi altezza e senza ponteggio. Fondo e finitura curati. Sopralluogo gratuito."
 ---
 
 Ritinteggiare una facciata vuol dire, nella maggior parte dei casi, settimane di impalcature, costi di nolo e un cantiere che blocca ingressi e vetrine. Lavorando su fune si può spesso farne a meno: gli operatori percorrono la parete dall'alto e la trattano per intero.

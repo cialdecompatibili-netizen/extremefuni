@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Potatura alberi"
-description: "Potatura e abbattimento controllato di alberi alti con tree climbing, anche in giardini stretti e vicino a edifici. Senza gru né piattaforme. Sopralluogo gratuito."
+description: "Alberi alti, rami pericolanti o spazi stretti? Potatura e abbattimento controllato con tree climbing, senza gru né piattaforme. Sopralluogo gratuito."
 ordine: 8
 in_home: true
-seo_title: "Potatura alberi | Tree climbing, senza gru"
-seo_description: "Potatura e abbattimento controllato di alberi alti con tree climbing, anche in giardini stretti e vicino a edifici. Senza gru né piattaforme. Sopralluogo gratuito."
+seo_title: "Potatura alberi"
+seo_description: "Alberi alti, rami pericolanti o spazi stretti? Potatura e abbattimento controllato con tree climbing, senza gru né piattaforme. Sopralluogo gratuito."
 ---
 
 Un albero molto alto, a ridosso di una facciata o di un cavo elettrico, in un giardino dove una gru o una piattaforma non riescono a manovrare, mette in difficoltà qualsiasi potatura classica. Col **tree climbing** l'operatore sale sulla pianta con corde e imbracatura e lavora ramo dopo ramo direttamente in chioma, dove nessun mezzo può arrivare.

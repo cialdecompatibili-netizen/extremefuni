@@ -4,7 +4,7 @@ title: "Messa in sicurezza su fune"
 description: "Cornicioni, intonaci o facciata pericolanti? Interveniamo subito su fune, senza aspettare il ponteggio, prima che cada qualcosa su chi passa. Sopralluogo gratuito."
 ordine: 7
 in_home: true
-seo_title: "Messa in sicurezza urgente su fune: facciate e cornicioni pericolanti"
+seo_title: "Messa in sicurezza su fune"
 seo_description: "Cornicioni, intonaci o facciata pericolanti? Interveniamo subito su fune, senza aspettare il ponteggio, prima che cada qualcosa su chi passa. Sopralluogo gratuito."
 ---
 

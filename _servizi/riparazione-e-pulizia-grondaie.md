@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Riparazione e pulizia grondaie"
-description: "Canali di gronda e pluviali liberati, sistemati o sostituiti da operatori in fune: arrivano ovunque senza impalcature e senza piattaforme."
+description: "Canali di gronda e pluviali liberati, sistemati o sostituiti da operatori su fune: arrivano ovunque senza impalcature e senza piattaforme."
 ordine: 2
 in_home: true
 seo_title: "Pulizia e riparazione grondaie e pluviali su fune, senza ponteggi"
-seo_description: "Grondaie e pluviali puliti, riparati o rifatti in quota da operatori in fune: nessuna impalcatura, intervento veloce e prezzo sotto controllo. Sopralluogo gratuito."
+seo_description: "Grondaie e pluviali puliti, riparati o rifatti in quota da operatori su fune: nessun'impalcatura, intervento veloce e prezzo sotto controllo. Sopralluogo gratuito."
 ---
 
 Quando il canale di gronda si riempie, l'acqua piovana non ha più dove andare e prende la strada più breve: giù per la facciata. Intonaco che si macchia, sottotetto che si bagna, muffa che sale, e d'inverno il ghiaccio che forza giunti e supporti. Il guaio emerge tardi, e a quel punto il conto è parecchio più alto di una semplice pulizia.
@@ -37,7 +37,7 @@ Il periodo ideale è **subito dopo la caduta delle foglie**, prima delle piogge 
 
 1. **Visita sul posto**: percorso delle gronde, punti d'attacco in copertura, spazio disponibile a terra.
 2. **Preventivo dettagliato**, dove pulizia, riparazioni ed eventuali sostituzioni sono voci separate.
-3. **Esecuzione in fune**, con due funi indipendenti, dall'alto verso il basso, controllando lo scorrimento in ogni tratto.
+3. **Esecuzione su fune**, con due funi indipendenti, dall'alto verso il basso, controllando lo scorrimento in ogni tratto.
 4. **Collaudo**: prova dell'acqua e, a richiesta, documentazione fotografica.
 
 ## Perché rinunciare al ponteggio
@@ -53,11 +53,11 @@ Il personale è formato al lavoro con funi come richiede il D.Lgs. 81/2008 e usa
 ### Con che frequenza si puliscono le grondaie?
 Almeno una volta l'anno, preferibilmente a fine autunno. Se intorno ci sono molte piante conviene aggiungere un secondo passaggio.
 
-### Qual è il costo di una pulizia in fune?
+### Qual è il costo di una pulizia su fune?
 Dipende da lunghezza del canale, altezza dell'edificio e quantità di residui. Dopo la visita ricevi un prezzo scritto con le voci chiare.
 
 ### Occorrono permessi o ponteggi?
-Per pulizie e riparazioni ordinarie no, si lavora in fune. Lo verifichiamo insieme in fase di sopralluogo.
+Per pulizie e riparazioni ordinarie no, si lavora su fune. Lo verifichiamo insieme in fase di sopralluogo.
 
 ### Si possono sistemare anche i pluviali?
 Sì, nello stesso intervento: discendenti, curve, terminali e tratti danneggiati vengono riparati o cambiati.

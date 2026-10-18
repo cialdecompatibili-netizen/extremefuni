@@ -1,16 +1,16 @@
 ---
 layout: single
 title: "Messa in sicurezza"
-description: "Intonaci, cornicioni e frontalini che si sgretolano vengono eliminati in fretta da operatori in corda, prima che qualcosa cada su chi passa."
+description: "Intonaci, cornicioni e frontalini che si sgretolano vengono eliminati in fretta da operatori su fune, prima che qualcosa cada su chi passa."
 ordine: 7
 in_home: true
 seo_title: "Messa in sicurezza facciate e cornicioni pericolanti su fune"
-seo_description: "Intervento rapido per togliere intonaci, cornicioni e frammenti instabili dalle facciate, lavorando in fune e senza ponteggio. Sopralluogo gratuito."
+seo_description: "Intervento rapido per togliere intonaci, cornicioni e frammenti instabili dalle facciate, lavorando su fune e senza ponteggio. Sopralluogo gratuito."
 ---
 
 Un frammento d'intonaco che si stacca, un cornicione che perde pezzi, un frontalino con i ferri scoperti: sono avvisaglie che dalla facciata può venire giù qualcosa, e a farne le spese sarebbe chi passa sul marciapiede. Quando c'è un rischio per le persone la mossa giusta è **toglierlo subito**, mentre attendere un ponteggio significa spesso lasciare il pericolo lì per giorni o settimane.
 
-La **messa in sicurezza in corda** permette di raggiungere i punti critici dall'alto in tempi brevi, eliminare ciò che è instabile e riportare la facciata in condizioni sicure, senza impalcature.
+La **messa in sicurezza su fune** permette di raggiungere i punti critici dall'alto in tempi brevi, eliminare ciò che è instabile e riportare la facciata in condizioni sicure, senza impalcature.
 
 ## Cosa comprende
 
@@ -35,14 +35,14 @@ Se sotto la facciata passa gente, conviene anche transennare l'area: in attesa d
 
 ## Come procediamo
 
-1. **Primo controllo rapido**, anche direttamente in fune, per misurare estensione e gravità.
+1. **Primo controllo rapido**, anche direttamente su fune, per misurare estensione e gravità.
 2. **Messa in sicurezza immediata**: rimozione delle parti instabili.
 3. **Relazione e preventivo** per il ripristino definitivo, se serve.
 4. **Verifica conclusiva** con foto prima e dopo.
 
-## Perché la corda batte l'impalcatura
+## Perché la fune batte l'impalcatura
 
-In un'emergenza ogni giorno d'attesa è un rischio in più. Il ponteggio chiede tempo per essere montato e autorizzato; in corda **l'accesso è subito disponibile** e si parte appena concordato il lavoro. I costi restano inferiori e il condominio non perde l'uso di balconi e finestre.
+In un'emergenza ogni giorno d'attesa è un rischio in più. Il ponteggio chiede tempo per essere montato e autorizzato; con la fune **l'accesso è subito disponibile** e si parte appena concordato il lavoro. I costi sono inferiori e il condominio non perde l'uso di balconi e finestre.
 
 ## Sicurezza e limiti
 
@@ -50,7 +50,7 @@ Operiamo con due funi indipendenti e personale formato come richiede il D.Lgs. 8
 
 ## Domande frequenti
 
-### Con quanta rapidità potete arrivare?
+### Quanto in fretta potete intervenire?
 Dopo la visita si fissa l'intervento al più presto. Per le urgenze scrivici subito dalla pagina Contatti.
 
 ### Di chi è la responsabilità se qualcosa cade?
@@ -63,7 +63,7 @@ Per danni rilevanti o strutturali sì: la perizia di un professionista abilitato
 Dipende da estensione, altezza e gravità. Dopo il sopralluogo ricevi un preventivo con le voci spiegate.
 
 ### Fate anche il ripristino successivo?
-Sì: intonaci, frontalini e cornicioni si rifanno nello stesso cantiere, sempre in fune.
+Sì: intonaci, frontalini e cornicioni si rifanno nello stesso cantiere, sempre su fune.
 
 ## Segnalaci il problema
 

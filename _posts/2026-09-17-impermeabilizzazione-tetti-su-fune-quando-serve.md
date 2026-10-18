@@ -2,13 +2,13 @@
 layout: single
 title: "Impermeabilizzazione tetti su fune: quando serve davvero"
 date: 2026-09-17
-excerpt: "Coperture difficili da raggiungere, ponteggi costosi o tempi stretti: ecco quando i lavori in fune sono la soluzione giusta per impermeabilizzare un tetto."
+excerpt: "Coperture difficili da raggiungere, ponteggi costosi o tempi stretti: ecco quando i lavori su fune sono la soluzione giusta per impermeabilizzare un tetto."
 categories:
   - tecnica
 seo_description: "Quando conviene impermeabilizzare un tetto lavorando su fune invece di montare un ponteggio, e quando no: interventi mirati, limiti e costi."
 ---
 
-Non tutti i tetti sono uguali, e non tutti gli interventi di impermeabilizzazione richiedono un ponteggio. Quando la copertura è alta, difficile da raggiungere o il cantiere ha tempi stretti, i lavori in fune diventano la soluzione più rapida e meno invasiva.
+Non tutti i tetti sono uguali, e non tutti gli interventi di impermeabilizzazione richiedono un ponteggio. Quando la copertura è alta, difficile da raggiungere o il cantiere ha tempi stretti, i lavori su fune diventano la soluzione più rapida e meno invasiva.
 
 ## Quando scegliere la fune invece del ponteggio
 

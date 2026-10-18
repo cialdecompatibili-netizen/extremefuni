@@ -1,14 +1,14 @@
 ---
 layout: single
 title: "Pulizia pannelli fotovoltaici"
-description: "Moduli solari lavati da operatori in corda su tetti alti, ripidi o poco sicuri da percorrere, senza impalcature e senza calpestare i pannelli."
+description: "Moduli solari lavati da operatori su fune su tetti alti, ripidi o poco sicuri da percorrere, senza impalcature e senza calpestare i pannelli."
 ordine: 10
 in_home: true
 seo_title: "Pulizia pannelli fotovoltaici su fune: tetti alti e inclinati"
-seo_description: "Lavaggio di pannelli fotovoltaici su coperture alte, inclinate o difficili da raggiungere, eseguito da operatori in fune. Nessun ponteggio, sopralluogo gratuito."
+seo_description: "Lavaggio di pannelli fotovoltaici su coperture alte, inclinate o difficili da raggiungere, eseguito da operatori su fune. Nessun ponteggio, sopralluogo gratuito."
 ---
 
-Polvere, smog, pollini, guano e residui di pioggia si posano sui moduli e ne abbassano il rendimento. In certi impianti lo strato di sporco si vede a occhio nudo, in altri è più insidioso e lo scopri solo confrontando la produzione. Il **lavaggio dei pannelli in corda** permette di intervenire anche dove camminare sul tetto non è sicuro: coperture alte, molto pendenti, con lucernari o prive di linea vita.
+Polvere, smog, pollini, guano e residui di pioggia si posano sui moduli e ne abbassano il rendimento. In certi impianti lo strato di sporco si vede a occhio nudo, in altri è più insidioso e lo scopri solo confrontando la produzione. Il **lavaggio dei pannelli su fune** permette di intervenire anche dove camminare sul tetto non è sicuro: coperture alte, molto pendenti, con lucernari o prive di linea vita.
 
 ## Le attività
 
@@ -34,13 +34,13 @@ L'effetto dello sporco sulla resa varia molto da impianto a impianto: prima di s
 3. **Lavaggio a impianto fermo e senza sole diretto**, nelle ore fresche, per evitare shock termici e aloni.
 4. **Controllo finale** e consegna delle foto.
 
-## Perché la corda e non ponteggio o piattaforma
+## Perché la fune e non il ponteggio o la piattaforma
 
-Per lavare dei pannelli, un ponteggio o una piattaforma possono costare più del lavoro. In corda **si taglia la spesa d'accesso**, non si cammina sui moduli, che sotto il peso possono rompersi, e si lavora anche su tetti dove salire è rischioso.
+Per lavare dei pannelli, un ponteggio o una piattaforma possono costare più del lavoro. Con la fune **si taglia la spesa d'accesso**, non si cammina sui moduli, che sotto il peso possono rompersi, e si lavora anche su tetti dove salire è rischioso.
 
 ## Sicurezza e limiti
 
-Usiamo due funi indipendenti, una di lavoro e una di sicurezza, con personale formato al lavoro in fune ai sensi del D.Lgs. 81/2008. Non laviamo con pioggia, gelo o moduli surriscaldati dal sole. Per impianti molto grandi, come i campi a terra, un lavaggio con mezzi dedicati può essere più adatto, e ti avvisiamo prima.
+Usiamo due funi indipendenti, una di lavoro e una di sicurezza, con personale formato al lavoro su fune ai sensi del D.Lgs. 81/2008. Non laviamo con pioggia, gelo o moduli surriscaldati dal sole. Per impianti molto grandi, come i campi a terra, un lavaggio con mezzi dedicati può essere più adatto, e ti avvisiamo prima.
 
 ## Domande frequenti
 

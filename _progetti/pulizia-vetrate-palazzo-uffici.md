@@ -6,4 +6,4 @@ importance: 3
 in_home: true
 ---
 
-Lavaggio delle vetrate di un edificio direzionale eseguito su corda, senza piattaforme aeree e con disagi minimi per chi lavora all'interno.
+Lavaggio delle vetrate di un edificio direzionale eseguito su fune, senza piattaforme aeree e con disagi minimi per chi lavora all'interno.

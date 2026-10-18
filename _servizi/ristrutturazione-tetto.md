@@ -5,7 +5,7 @@ description: "Interventi di riparazione e manutenzione sulle coperture, dalle te
 ordine: 14
 in_home: false
 seo_title: "Riparazione e manutenzione tetto su fune: tegole, guaine e infiltrazioni"
-seo_description: "Tegole rotte, guaine consumate, converse e colmi da sistemare? Interveniamo sul punto preciso lavorando in fune, senza montare impalcature. Sopralluogo senza spese."
+seo_description: "Tegole rotte, guaine consumate, converse e colmi da sistemare? Interveniamo sul punto preciso lavorando su fune, senza montare impalcature. Sopralluogo senza spese."
 ---
 
 Di solito un tetto in difficoltà si fa notare quando ormai piove in casa: una macchia sul soffitto, un angolo che sa di umido. Prevenire con una verifica periodica è quasi sempre più economico che rimediare dopo il primo temporale forte.

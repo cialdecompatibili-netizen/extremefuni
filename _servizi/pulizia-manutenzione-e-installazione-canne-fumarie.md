@@ -5,12 +5,12 @@ description: "Controllo, spazzolatura, riparazione e montaggio di canne fumarie 
 ordine: 4
 in_home: true
 seo_title: "Pulizia e installazione canne fumarie e comignoli su fune"
-seo_description: "Canne fumarie e comignoli ispezionati, puliti, riparati o installati da operatori in fune, senza impalcature e senza piattaforme. Sopralluogo e preventivo gratuiti."
+seo_description: "Canne fumarie e comignoli ispezionati, puliti, riparati o installati da operatori su fune, senza impalcature e senza piattaforme. Sopralluogo e preventivo gratuiti."
 ---
 
 Quando una canna fumaria si riempie di residui o si danneggia, il tiraggio è solo il primo sintomo. La fuliggine depositata può incendiarsi e i fumi che non trovano via d'uscita tornano negli ambienti. Per camini, stufe e caldaie la **cura della canna fumaria** è prima di tutto una questione di sicurezza, il comfort viene dopo.
 
-Noi lavoriamo **dal tetto verso il basso, in corda**: arriviamo al comignolo e al tratto esterno senza montare impalcature e senza noleggiare mezzi, anche con falde ripide, palazzi alti o edifici dei centri storici.
+Noi lavoriamo **dal tetto verso il basso, su fune**: arriviamo al comignolo e al tratto esterno senza montare impalcature e senza noleggiare mezzi, anche con falde ripide, palazzi alti o edifici dei centri storici.
 
 ## Le nostre prestazioni
 
@@ -28,19 +28,19 @@ Dipende da cosa si brucia e da quanto si usa. Legna e pellet lasciano più depos
 ## Come procediamo
 
 1. **Visita preliminare**: tipo di canna, copertura, punti di accesso e quantità di residui.
-2. **Preventivo ordinato**, con ispezione, pulizia ed eventuali riparazioni in voci distinte.
-3. **Discesa in fune** con doppio ancoraggio, uno di lavoro e uno di sicurezza.
+2. **Preventivo dettagliato**, con ispezione, pulizia ed eventuali riparazioni in voci distinte.
+3. **Discesa su fune** con doppio ancoraggio, uno di lavoro e uno di sicurezza.
 4. **Prova del passaggio libero** e, se desideri, foto del comignolo prima e dopo.
 
 Per le installazioni nuove il montaggio va eseguito a regola d'arte e corredato dalla dichiarazione di conformità prevista dal D.M. 37/2008: ti spieghiamo cosa occorre e con quale tecnico abilitato collaborare.
 
 ## Perché evitare il ponteggio
 
-Per guardare o spazzolare un comignolo, un'impalcatura è una spesa fuori misura: montaggio, nolo, smontaggio e a volte anche l'occupazione di suolo. In corda **si risparmia sull'accesso, non sulla cura**, e molti lavori si concludono in poche ore.
+Per guardare o spazzolare un comignolo, un'impalcatura è una spesa fuori misura: montaggio, nolo, smontaggio e a volte anche l'occupazione di suolo. Con la fune **si risparmia sull'accesso, non sulla cura**, e molti lavori si concludono in poche ore.
 
 ## Sicurezza e limiti
 
-Il personale è formato per l'accesso e il posizionamento in fune come richiede il D.Lgs. 81/2008. Se piove forte, gela o tira vento si posticipa. Nei rifacimenti importanti di impianti complessi, durante il sopralluogo ti diciamo con franchezza se è meglio abbinare un ponteggio.
+Il personale è formato per l'accesso e il posizionamento su fune come richiede il D.Lgs. 81/2008. Se piove forte, gela o tira vento si posticipa. Nei rifacimenti importanti di impianti complessi, durante il sopralluogo ti diciamo con franchezza se è meglio abbinare un ponteggio.
 
 ## Domande frequenti
 
@@ -51,13 +51,13 @@ Incidono altezza, accessibilità, tipologia e quantità di sporco. Dopo la visit
 Sì, in acciaio, su facciata o in copertura. Per la dichiarazione di conformità ti indichiamo come muoverti con un installatore abilitato.
 
 ### Per riparare un comignolo serve il ponteggio?
-Quasi sempre no: si lavora dall'alto, in fune.
+Quasi sempre no: si lavora dall'alto, su fune.
 
 ### Come si capisce che è ora di pulire?
 Tiraggio fiacco, fumo che torna indietro, odore di bruciato, fuliggine che cade nella stufa: segnali da prendere sul serio.
 
 ### Fate interventi urgenti?
-Sì, dopo un principio d'incendio in canna o un danno da maltempo scrivici subito: valutiamo l'uscita nel più breve tempo possibile.
+Sì, dopo un principio d'incendio in canna o un danno da maltempo scrivici subito: valutiamo un intervento nel più breve tempo possibile.
 
 ## Scrivici
 

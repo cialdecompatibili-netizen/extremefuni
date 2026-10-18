@@ -1,16 +1,16 @@
 ---
 layout: single
 title: "Sistemi di sicurezza su fune"
-description: "Linee vita, punti di ancoraggio e dispositivi anticaduta installati in copertura da operatori in corda, con tutta la documentazione tecnica consegnata a fine lavoro."
+description: "Linee vita, punti di ancoraggio e dispositivi anticaduta installati in copertura da operatori su fune, con tutta la documentazione tecnica consegnata a fine lavoro."
 ordine: 6
 in_home: true
 seo_title: "Linee vita e ancoraggi anticaduta su fune: montaggio con documentazione"
-seo_description: "Linee vita, ancoraggi e sistemi anticaduta per tetti e facciate, montati da operatori in fune con documentazione completa. Primo sopralluogo senza spese."
+seo_description: "Linee vita, ancoraggi e sistemi anticaduta per tetti e facciate, montati da operatori su fune con documentazione completa. Primo sopralluogo senza spese."
 ---
 
 Chiunque debba salire su un tetto, per riparare, pulire o ispezionare, ha bisogno di un punto sicuro a cui agganciarsi. Una **linea vita** o una rete di **ancoraggi anticaduta** consente a manutentori e tecnici di lavorare in copertura al riparo da cadute, oggi e nei prossimi anni. Per le nuove costruzioni e per molte ristrutturazioni questi dispositivi sono anche richiesti dai regolamenti regionali.
 
-Li installiamo **in corda**, quindi senza costruire un ponteggio solo per rendere sicuro il tetto.
+Li installiamo **su fune**, quindi senza costruire un ponteggio solo per rendere sicuro il tetto.
 
 ## Le nostre attività
 
@@ -28,12 +28,12 @@ I dispositivi di ancoraggio permanenti sono regolati dalla **UNI EN 795**, mentr
 
 1. **Rilievo**: copertura, materiali, pendenze, accessi e strutture a cui fissare.
 2. **Progetto e prezzo**: tipo di sistema e numero di punti, con costi dettagliati.
-3. **Montaggio in fune**, con due funi indipendenti di lavoro e sicurezza.
+3. **Montaggio su fune**, con due funi indipendenti di lavoro e sicurezza.
 4. **Collaudo e consegna** dei documenti, delle istruzioni d'uso e del calendario dei controlli.
 
 ## Il vantaggio rispetto al ponteggio
 
-Alzare un'impalcatura per montare una linea vita vuol dire pagare l'accesso più del lavoro. Con la corda **arriviamo direttamente a colmo e bordi della copertura**, in tempi brevi e senza occupare suolo pubblico. È anche una spesa che si ripaga: una volta presente la linea vita, le manutenzioni successive, da grondaie a camini a pannelli, non richiedono di noleggiare ogni volta un ponteggio.
+Alzare un'impalcatura per montare una linea vita vuol dire pagare l'accesso più del lavoro. Con la fune **arriviamo direttamente a colmo e bordi della copertura**, in tempi brevi e senza occupare suolo pubblico. È anche una spesa che si ripaga: una volta presente la linea vita, le manutenzioni successive, da grondaie a camini a pannelli, non richiedono di noleggiare ogni volta un ponteggio.
 
 ## Sicurezza e limiti
 

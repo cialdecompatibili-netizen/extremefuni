@@ -1,16 +1,16 @@
 ---
 layout: single
 title: "Dissuasori per piccioni"
-description: "Montaggio e controllo di sistemi anti-volatili su cornicioni, davanzali, balconi e coperture, eseguiti da operatori in corda senza alcuna impalcatura."
+description: "Montaggio e controllo di sistemi anti-volatili su cornicioni, davanzali, balconi e coperture, eseguiti da operatori su fune senza alcun'impalcatura."
 ordine: 5
 in_home: true
 seo_title: "Dissuasori per piccioni: installazione su fune, senza ponteggi"
-seo_description: "Dissuasori anti-piccione montati e mantenuti su cornicioni, balconi, tetti e facciate da operatori in fune, anche per i condomini. Sopralluogo senza costi."
+seo_description: "Dissuasori anti-piccione montati e mantenuti su cornicioni, balconi, tetti e facciate da operatori su fune, anche per i condomini. Sopralluogo senza costi."
 ---
 
 Una colonia di piccioni su un cornicione non è soltanto fastidiosa. Il guano è acido, macchia e consuma intonaci, marmi e davanzali, ostruisce i pluviali e porta con sé questioni igieniche. E dove trovano riparo una volta, tornano: ripulire senza impedire il ritorno significa rifare tutto dopo poche settimane.
 
-La soluzione stabile è non lasciare appigli. Con i **dissuasori montati in corda** arriviamo a cornicioni, frontalini e sporgenze in alto senza impalcature, in poco tempo e senza togliere a chi abita l'edificio l'uso di finestre e balconi.
+La soluzione stabile è non lasciare appigli. Con i **dissuasori montati su fune** arriviamo a cornicioni, frontalini e sporgenze in alto senza impalcature, in poco tempo e senza togliere a chi abita l'edificio l'uso di finestre e balconi.
 
 ## Cosa facciamo
 
@@ -35,16 +35,16 @@ Montiamo soltanto sistemi **che allontanano senza ferire**: l'obiettivo è tener
 
 1. **Ispezione**: dove si posano gli uccelli, che superficie trovano e quanto è esposta.
 2. **Proposta e prezzo**, con il sistema consigliato e i metri lineari da coprire.
-3. **Pulizia e posa in fune**, con due funi indipendenti di lavoro e sicurezza.
+3. **Pulizia e posa su fune**, con due funi indipendenti di lavoro e sicurezza.
 4. **Controllo finale** e indicazioni per mantenere il risultato.
 
-## Perché la corda e non l'impalcatura
+## Perché la fune e non l'impalcatura
 
-Sui cornicioni alti il ponteggio pesa più del lavoro stesso: montaggio, nolo e pratiche. In corda **l'accesso costa poco**, il cantiere è rapido e il condominio non perde l'uso di balconi e finestre.
+Sui cornicioni alti il ponteggio pesa più del lavoro stesso: montaggio, nolo e pratiche. Con la fune **l'accesso costa poco**, il cantiere è rapido e il condominio non perde l'uso di balconi e finestre.
 
 ## Sicurezza e franchezza sui limiti
 
-Il personale è formato al lavoro in fune come prevede il D.Lgs. 81/2008. Pioggia, ghiaccio e vento forte fanno rinviare l'intervento. Nessun dissuasore garantisce il cento per cento: se nelle vicinanze c'è una fonte di cibo stabile, per esempio qualcuno che li nutre, l'effetto dura meno, e te lo diciamo prima di cominciare.
+Il personale è formato al lavoro su fune come prevede il D.Lgs. 81/2008. Pioggia, ghiaccio e vento forte fanno rinviare l'intervento. Nessun dissuasore garantisce il cento per cento: se nelle vicinanze c'è una fonte di cibo stabile, per esempio qualcuno che li nutre, l'effetto dura meno, e te lo diciamo prima di cominciare.
 
 ## Domande frequenti
 

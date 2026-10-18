@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Dissuasori per piccioni"
-description: "Montaggio e controllo di sistemi anti-volatili su cornicioni, davanzali, balconi e coperture, eseguiti da operatori su fune senza alcun'impalcatura."
+title: "Installazione, manutenzione dissuasori per piccioni"
+description: "Installazione e manutenzione di dissuasori per piccioni su cornicioni, balconi e facciate, anche in condominio. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
 ordine: 5
 in_home: true
-seo_title: "Dissuasori per piccioni: installazione su fune, senza ponteggi"
-seo_description: "Dissuasori anti-piccione montati e mantenuti su cornicioni, balconi, tetti e facciate da operatori su fune, anche per i condomini. Sopralluogo senza costi."
+seo_title: "Installazione e manutenzione dissuasori per piccioni | Su fune, senza ponteggi"
+seo_description: "Installazione e manutenzione di dissuasori per piccioni su cornicioni, balconi e facciate, anche in condominio. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
 ---
 
 Una colonia di piccioni su un cornicione non è soltanto fastidiosa. Il guano è acido, macchia e consuma intonaci, marmi e davanzali, ostruisce i pluviali e porta con sé questioni igieniche. E dove trovano riparo una volta, tornano: ripulire senza impedire il ritorno significa rifare tutto dopo poche settimane.

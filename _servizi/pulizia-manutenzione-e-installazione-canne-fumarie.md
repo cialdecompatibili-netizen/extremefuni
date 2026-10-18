@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Pulizia, manutenzione e installazione canne fumarie"
+title: "Canne fumarie"
 description: "Pulizia, manutenzione, riparazione e installazione di canne fumarie e comignoli, anche su tetti ripidi e palazzi alti. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
 ordine: 4
 in_home: true

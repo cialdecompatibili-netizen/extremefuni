@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Messa in sicurezza su fune"
-description: "Rimozione di intonaci, cornicioni e frontalini pericolanti dalle facciate, prima che cadano su chi passa. Intervento rapido su fune, senza ponteggio, con relazione fotografica."
+description: "Cornicioni, intonaci o facciata pericolanti? Interveniamo subito su fune, senza aspettare il ponteggio, prima che cada qualcosa su chi passa. Sopralluogo gratuito."
 ordine: 7
 in_home: true
-seo_title: "Messa in sicurezza su fune: facciate e cornicioni pericolanti"
-seo_description: "Rimozione di intonaci, cornicioni e frontalini pericolanti dalle facciate, prima che cadano su chi passa. Intervento rapido su fune, senza ponteggio, con relazione fotografica. Sopralluogo gratuito."
+seo_title: "Messa in sicurezza urgente su fune: facciate e cornicioni pericolanti"
+seo_description: "Cornicioni, intonaci o facciata pericolanti? Interveniamo subito su fune, senza aspettare il ponteggio, prima che cada qualcosa su chi passa. Sopralluogo gratuito."
 ---
 
 Un frammento d'intonaco che si stacca, un cornicione che perde pezzi, un frontalino con i ferri scoperti: sono avvisaglie che dalla facciata può venire giù qualcosa, e a farne le spese sarebbe chi passa sul marciapiede. Quando c'è un rischio per le persone la mossa giusta è **toglierlo subito**, mentre attendere un ponteggio significa spesso lasciare il pericolo lì per giorni o settimane.

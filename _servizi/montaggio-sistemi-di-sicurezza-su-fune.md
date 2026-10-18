@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Montaggio sistemi di sicurezza su fune"
+title: "Sistemi di sicurezza su fune"
 description: "Montaggio di linee vita, ancoraggi e sistemi anticaduta su tetti e facciate, con documentazione tecnica a fine lavoro. Lavoro su fune senza ponteggio. Sopralluogo gratuito."
 ordine: 6
 in_home: true

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Contatti"
-seo_title: "Contatti e sopralluogo gratuito | EdilExtreme"
+seo_title: "Contatti e sopralluogo gratuito | extremefuni.it"
 seo_description: "Richiedi un sopralluogo gratuito per lavori su fune: descrivi il lavoro e ti rispondiamo entro 24 ore, festivi esclusi."
 permalink: /contatti/
 ---

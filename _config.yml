@@ -1,10 +1,10 @@
 related_posts: 3
-title: EdilExtreme
+title: extremefuni.it
 baseurl: ""
 url: "https://extremefuni.it"
 email: ""
-description: "EdilExtreme: lavori edili su fune a Roma e nel Lazio. Grondaie, canne fumarie, facciate, tetti e messa in sicurezza senza ponteggi. Sopralluogo gratuito."
-footer_text: "&copy; 2026 EdilExtreme"
+description: "extremefuni.it: lavori in quota su fune a Roma e nel Lazio. Grondaie, canne fumarie, facciate, tetti e messa in sicurezza senza ponteggi. Sopralluogo gratuito."
+footer_text: "&copy; 2026 extremefuni.it"
 minimal_mistakes_skin: default
 search: true
 
@@ -12,7 +12,7 @@ search: true
 author:
   name: "Andrew"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Andrew, fondatore di EdilExtreme. Lavori edili in quota su fune, senza ponteggi. Scrivimi per un sopralluogo gratuito."
+  bio: "Andrew, fondatore di extremefuni.it. Lavori edili in quota su fune, senza ponteggi. Scrivimi per un sopralluogo gratuito."
   links:
     - label: "Richiedi un preventivo"
       icon: "fas fa-fw fa-envelope"

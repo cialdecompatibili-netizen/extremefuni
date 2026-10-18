@@ -3,8 +3,8 @@ layout: single
 title: "Servizi"
 permalink: /servizi/
 author_profile: false
-seo_title: "Servizi di edilizia su fune: grondaie, canne fumarie, facciate, tetti | EdilExtreme"
-seo_description: "Tutti i servizi EdilExtreme: grondaie, canne fumarie, impermeabilizzazioni, facciate, tetti, pulizia vetri e messa in sicurezza su fune, senza ponteggio."
+seo_title: "Servizi di edilizia su fune: grondaie, canne fumarie, facciate, tetti | extremefuni.it"
+seo_description: "Tutti i servizi extremefuni.it: grondaie, canne fumarie, impermeabilizzazioni, facciate, tetti, pulizia vetri e messa in sicurezza su fune, senza ponteggio."
 classes: wide
 ---
 
